@@ -349,3 +349,7 @@
 2020-11-02 00:36:53 INFO  log :16 - Entered username
 2020-11-02 00:36:53 INFO  log :18 - Entered password
 2020-11-02 00:37:05 INFO  log :42 - Test passed
+2020-11-02 01:09:48 INFO  log :64 - Page was opened
+2020-11-02 01:09:48 INFO  log :16 - Entered username
+2020-11-02 01:09:48 INFO  log :18 - Entered password
+2020-11-02 01:09:59 INFO  log :46 - Test failed

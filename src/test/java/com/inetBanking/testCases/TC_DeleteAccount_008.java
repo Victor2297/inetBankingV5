@@ -22,9 +22,13 @@ public class TC_DeleteAccount_008 extends BaseClass{
 		
 		DeleteAccountPage dAcc = new DeleteAccountPage(driver);
 		dAcc.closeAds();
+		logger.info("Ads was removed");
 		dAcc.openDeleteAccountPage();
-		dAcc.setAccountNo("86811");
+		logger.info("Delete page was opened");
+		dAcc.setAccountNo("86812");
+		logger.info("Account is entered");
 		dAcc.submitAccounNo();
+		logger.info("Account is sent");
 		
 		Thread.sleep(3000);
 		String alertText = driver.switchTo().alert().getText();
