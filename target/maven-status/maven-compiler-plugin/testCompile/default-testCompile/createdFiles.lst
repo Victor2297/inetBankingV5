@@ -1,8 +1,10 @@
 com\inetBanking\pageObjects\NewCustomerPage.class
 com\inetBanking\testCases\TC_LoginTest_001.class
+com\inetBanking\testCases\TC_N_NewDeposit_010.class
 com\inetBanking\testCases\TC_DeteleCustomer_005.class
 com\inetBanking\pageObjects\EditAccountPage.class
 com\inetBanking\testCases\TC_DeleteAccount_008.class
+com\inetBanking\pageObjects\DepositPage.class
 com\inetBanking\testCases\TC_LoginDDT_002.class
 com\inetBanking\pageObjects\NewAccountPage.class
 com\inetBanking\testCases\TC_AddNewCustomer_003.class
@@ -19,3 +21,4 @@ com\inetBanking\utilities\Reporting.class
 com\inetBanking\testCases\TC_EditCustomer_004.class
 com\inetBanking\utilities\XLUtils.class
 com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testCases\TC_NewDeposit_009.class

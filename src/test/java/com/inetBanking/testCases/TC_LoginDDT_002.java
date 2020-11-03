@@ -21,7 +21,6 @@ public class TC_LoginDDT_002 extends BaseClass {
 		lp.clickOnLoginButton();
 		
 		Thread.sleep(3000);
-		this.getData();
 		
 		if(this.verifyAlert()==true) {
 			driver.switchTo().alert().accept();
@@ -31,6 +30,7 @@ public class TC_LoginDDT_002 extends BaseClass {
 		}
 		else {
 			lp.clickOnLogoutButton();
+			Thread.sleep(3000);
 			driver.switchTo().alert().accept();
 			driver.switchTo().defaultContent();
 			logger.info("Test Passed");

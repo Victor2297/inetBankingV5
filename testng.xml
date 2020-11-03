@@ -16,7 +16,9 @@
   <!--<class name = "com.inetBanking.testCases.TC_DeteleCustomer_005"/>-->
   <!--<class name = "com.inetBanking.testCases.TC_NewAccount_006"/>-->
   <!--<class name = "com.inetBanking.testCases.TC_EditAccount_007"/>-->
-  <class name = "com.inetBanking.testCases.TC_DeleteAccount_008"/>
+  <!--<class name = "com.inetBanking.testCases.TC_DeleteAccount_008"/>-->
+  <class name = "com.inetBanking.testCases.TC_NewDeposit_009"/>
+  <class name = "com.inetBanking.testCases.TC_N_NewDeposit_010"/>
   </classes>
   </test>
 </suite>

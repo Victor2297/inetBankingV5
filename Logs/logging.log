@@ -353,3 +353,1081 @@
 2020-11-02 01:09:48 INFO  log :16 - Entered username
 2020-11-02 01:09:48 INFO  log :18 - Entered password
 2020-11-02 01:09:59 INFO  log :46 - Test failed
+2020-11-02 21:50:44 INFO  log :64 - Page was opened
+2020-11-02 21:50:50 INFO  log :18 - Username was entered
+2020-11-02 21:50:50 INFO  log :20 - Pssword was entered
+2020-11-02 21:50:54 INFO  log :28 - Test failed
+2020-11-02 21:50:55 INFO  log :18 - Username was entered
+2020-11-02 21:50:55 INFO  log :20 - Pssword was entered
+2020-11-02 21:50:59 INFO  log :28 - Test failed
+2020-11-02 21:51:00 INFO  log :18 - Username was entered
+2020-11-02 21:51:00 INFO  log :20 - Pssword was entered
+2020-11-02 21:53:47 INFO  log :64 - Page was opened
+2020-11-02 21:53:48 INFO  log :18 - Username was entered
+2020-11-02 21:53:49 INFO  log :20 - Pssword was entered
+2020-11-02 21:53:53 INFO  log :28 - Test failed
+2020-11-02 21:53:53 INFO  log :18 - Username was entered
+2020-11-02 21:53:53 INFO  log :20 - Pssword was entered
+2020-11-02 21:53:58 INFO  log :28 - Test failed
+2020-11-02 21:53:58 INFO  log :18 - Username was entered
+2020-11-02 21:53:59 INFO  log :20 - Pssword was entered
+2020-11-02 21:54:07 INFO  log :36 - Test Passed
+2020-11-02 21:54:08 INFO  log :18 - Username was entered
+2020-11-02 21:54:08 INFO  log :20 - Pssword was entered
+2020-11-02 21:54:13 INFO  log :28 - Test failed
+2020-11-02 21:54:13 INFO  log :18 - Username was entered
+2020-11-02 21:54:13 INFO  log :20 - Pssword was entered
+2020-11-02 21:54:22 INFO  log :36 - Test Passed
+2020-11-02 21:56:20 INFO  log :64 - Page was opened
+2020-11-02 21:56:22 INFO  log :18 - Username was entered
+2020-11-02 21:56:22 INFO  log :20 - Pssword was entered
+2020-11-02 21:56:27 INFO  log :28 - Test failed
+2020-11-02 21:56:27 INFO  log :18 - Username was entered
+2020-11-02 21:56:28 INFO  log :20 - Pssword was entered
+2020-11-02 21:56:32 INFO  log :28 - Test failed
+2020-11-02 21:56:32 INFO  log :18 - Username was entered
+2020-11-02 21:56:32 INFO  log :20 - Pssword was entered
+2020-11-02 21:56:41 INFO  log :36 - Test Passed
+2020-11-02 21:56:41 INFO  log :18 - Username was entered
+2020-11-02 21:56:41 INFO  log :20 - Pssword was entered
+2020-11-02 21:56:46 INFO  log :28 - Test failed
+2020-11-02 21:56:47 INFO  log :18 - Username was entered
+2020-11-02 21:56:47 INFO  log :20 - Pssword was entered
+2020-11-02 21:56:55 INFO  log :36 - Test Passed
+2020-11-02 21:59:18 INFO  log :64 - Page was opened
+2020-11-02 21:59:18 INFO  log :15 - Username was entered
+2020-11-02 21:59:18 INFO  log :17 - Password was entered
+2020-11-02 21:59:22 INFO  log :22 - Test is passed
+2020-11-02 22:00:17 INFO  log :64 - Page was opened
+2020-11-02 22:00:18 INFO  log :15 - Username was entered
+2020-11-02 22:00:18 INFO  log :17 - Password was entered
+2020-11-02 22:00:22 INFO  log :22 - Test is passed
+2020-11-02 23:05:33 INFO  log :64 - Page was opened
+2020-11-02 23:05:34 INFO  log :16 - Entered username
+2020-11-02 23:05:35 INFO  log :18 - Entered password
+2020-11-02 23:10:27 INFO  log :64 - Page was opened
+2020-11-02 23:10:28 INFO  log :16 - Entered username
+2020-11-02 23:10:28 INFO  log :18 - Entered password
+2020-11-02 23:11:43 INFO  log :64 - Page was opened
+2020-11-02 23:11:43 INFO  log :16 - Entered username
+2020-11-02 23:11:44 INFO  log :18 - Entered password
+2020-11-02 23:11:53 INFO  log :40 - Test passed
+2020-11-02 23:12:14 INFO  log :64 - Page was opened
+2020-11-02 23:12:14 INFO  log :16 - Entered username
+2020-11-02 23:12:16 INFO  log :18 - Entered password
+2020-11-02 23:12:24 INFO  log :40 - Test passed
+2020-11-02 23:32:59 INFO  log :64 - Page was opened
+2020-11-02 23:34:21 INFO  log :64 - Page was opened
+2020-11-02 23:35:16 INFO  log :64 - Page was opened
+2020-11-02 23:35:16 INFO  log :16 - Entered username
+2020-11-02 23:35:16 INFO  log :18 - Entered password
+2020-11-02 23:35:26 INFO  log :40 - Test passed
+2020-11-02 23:37:11 INFO  log :64 - Page was opened
+2020-11-02 23:37:11 INFO  log :16 - Entered username
+2020-11-02 23:37:12 INFO  log :18 - Entered password
+2020-11-02 23:37:21 INFO  log :40 - Test passed
+2020-11-02 23:38:58 INFO  log :64 - Page was opened
+2020-11-02 23:39:25 INFO  log :64 - Page was opened
+2020-11-02 23:39:25 INFO  log :16 - Entered username
+2020-11-02 23:39:25 INFO  log :18 - Entered password
+2020-11-02 23:39:35 INFO  log :40 - Test passed
+2020-11-02 23:42:43 INFO  log :64 - Page was opened
+2020-11-02 23:42:43 INFO  log :16 - Entered username
+2020-11-02 23:42:44 INFO  log :18 - Entered password
+2020-11-02 23:42:53 INFO  log :40 - Test passed
+2020-11-02 23:44:51 INFO  log :64 - Page was opened
+2020-11-02 23:45:22 INFO  log :64 - Page was opened
+2020-11-02 23:45:23 INFO  log :16 - Entered username
+2020-11-02 23:45:23 INFO  log :18 - Entered password
+2020-11-02 23:45:33 INFO  log :40 - Test passed
+2020-11-03 00:00:26 INFO  log :64 - Page was opened
+2020-11-03 00:00:26 INFO  log :16 - Entered username
+2020-11-03 00:00:27 INFO  log :18 - Entered password
+2020-11-03 00:00:37 INFO  log :37 - Test passed
+2020-11-03 00:00:44 INFO  log :37 - Test passed
+2020-11-03 00:02:29 INFO  log :64 - Page was opened
+2020-11-03 00:02:29 INFO  log :16 - Entered username
+2020-11-03 00:02:29 INFO  log :18 - Entered password
+2020-11-03 00:02:40 INFO  log :37 - Test passed
+2020-11-03 00:02:45 INFO  log :37 - Test passed
+2020-11-03 00:02:51 INFO  log :41 - Test failed
+2020-11-03 00:02:56 INFO  log :37 - Test passed
+2020-11-03 00:03:02 INFO  log :37 - Test passed
+2020-11-03 00:03:08 INFO  log :37 - Test passed
+2020-11-03 00:03:14 INFO  log :37 - Test passed
+2020-11-03 00:05:42 INFO  log :64 - Page was opened
+2020-11-03 00:05:42 INFO  log :16 - Entered username
+2020-11-03 00:05:43 INFO  log :18 - Entered password
+2020-11-03 00:05:53 INFO  log :37 - Test passed
+2020-11-03 00:05:59 INFO  log :37 - Test passed
+2020-11-03 00:06:04 INFO  log :41 - Test failed
+2020-11-03 00:06:10 INFO  log :37 - Test passed
+2020-11-03 00:06:16 INFO  log :37 - Test passed
+2020-11-03 00:06:21 INFO  log :37 - Test passed
+2020-11-03 00:06:28 INFO  log :37 - Test passed
+2020-11-03 00:10:35 INFO  log :64 - Page was opened
+2020-11-03 00:10:36 INFO  log :16 - Entered username
+2020-11-03 00:10:36 INFO  log :18 - Entered password
+2020-11-03 00:10:49 INFO  log :37 - Test passed
+2020-11-03 00:10:54 INFO  log :37 - Test passed
+2020-11-03 00:11:00 INFO  log :37 - Test passed
+2020-11-03 00:11:06 INFO  log :37 - Test passed
+2020-11-03 00:11:11 INFO  log :37 - Test passed
+2020-11-03 00:11:18 INFO  log :37 - Test passed
+2020-11-03 00:15:54 INFO  log :64 - Page was opened
+2020-11-03 00:15:54 INFO  log :16 - Entered username
+2020-11-03 00:15:54 INFO  log :18 - Entered password
+2020-11-03 00:16:04 INFO  log :40 - Test passed
+2020-11-03 00:16:12 INFO  log :64 - Page was opened
+2020-11-03 00:16:12 INFO  log :16 - Entered username
+2020-11-03 00:16:12 INFO  log :18 - Entered password
+2020-11-03 00:16:22 INFO  log :37 - Test passed
+2020-11-03 00:16:28 INFO  log :37 - Test passed
+2020-11-03 00:16:34 INFO  log :37 - Test passed
+2020-11-03 00:16:39 INFO  log :37 - Test passed
+2020-11-03 00:16:45 INFO  log :37 - Test passed
+2020-11-03 00:16:51 INFO  log :37 - Test passed
+2020-11-03 00:21:04 INFO  log :64 - Page was opened
+2020-11-03 00:21:04 INFO  log :16 - Entered username
+2020-11-03 00:21:04 INFO  log :18 - Entered password
+2020-11-03 00:21:13 INFO  log :40 - Test passed
+2020-11-03 00:21:23 INFO  log :64 - Page was opened
+2020-11-03 00:21:23 INFO  log :16 - Entered username
+2020-11-03 00:21:23 INFO  log :18 - Entered password
+2020-11-03 00:21:34 INFO  log :37 - Test passed
+2020-11-03 00:21:39 INFO  log :37 - Test passed
+2020-11-03 00:21:45 INFO  log :37 - Test passed
+2020-11-03 00:21:51 INFO  log :37 - Test passed
+2020-11-03 00:21:56 INFO  log :37 - Test passed
+2020-11-03 00:22:02 INFO  log :37 - Test passed
+2020-11-03 00:42:18 INFO  log :64 - Page was opened
+2020-11-03 00:42:18 INFO  log :16 - Entered username
+2020-11-03 00:42:18 INFO  log :18 - Entered password
+2020-11-03 00:42:27 INFO  log :40 - Test passed
+2020-11-03 00:42:35 INFO  log :64 - Page was opened
+2020-11-03 00:42:35 INFO  log :16 - Entered username
+2020-11-03 00:42:35 INFO  log :18 - Entered password
+2020-11-03 00:42:41 INFO  log :27 - Ads was closed
+2020-11-03 00:42:41 INFO  log :29 - Deposit page is opened
+2020-11-03 00:42:42 INFO  log :31 - AccountNo is entered
+2020-11-03 00:42:42 INFO  log :33 - Amount is entered
+2020-11-03 00:42:42 INFO  log :35 - Description is added
+2020-11-03 00:42:44 INFO  log :27 - Ads was closed
+2020-11-03 00:42:45 INFO  log :29 - Deposit page is opened
+2020-11-03 00:42:45 INFO  log :31 - AccountNo is entered
+2020-11-03 00:42:45 INFO  log :33 - Amount is entered
+2020-11-03 00:42:45 INFO  log :35 - Description is added
+2020-11-03 00:42:46 INFO  log :37 - The submit is executed
+2020-11-03 00:42:49 INFO  log :43 - Test passed
+2020-11-03 00:42:50 INFO  log :27 - Ads was closed
+2020-11-03 00:42:50 INFO  log :29 - Deposit page is opened
+2020-11-03 00:42:51 INFO  log :31 - AccountNo is entered
+2020-11-03 00:42:51 INFO  log :33 - Amount is entered
+2020-11-03 00:42:51 INFO  log :35 - Description is added
+2020-11-03 00:42:53 INFO  log :27 - Ads was closed
+2020-11-03 00:42:54 INFO  log :29 - Deposit page is opened
+2020-11-03 00:42:54 INFO  log :31 - AccountNo is entered
+2020-11-03 00:42:54 INFO  log :33 - Amount is entered
+2020-11-03 00:42:55 INFO  log :35 - Description is added
+2020-11-03 00:42:55 INFO  log :37 - The submit is executed
+2020-11-03 00:42:58 INFO  log :43 - Test passed
+2020-11-03 00:42:59 INFO  log :27 - Ads was closed
+2020-11-03 00:42:59 INFO  log :29 - Deposit page is opened
+2020-11-03 00:43:00 INFO  log :31 - AccountNo is entered
+2020-11-03 00:43:00 INFO  log :33 - Amount is entered
+2020-11-03 00:43:00 INFO  log :35 - Description is added
+2020-11-03 00:43:00 INFO  log :37 - The submit is executed
+2020-11-03 00:43:03 INFO  log :43 - Test passed
+2020-11-03 00:43:04 INFO  log :27 - Ads was closed
+2020-11-03 00:43:05 INFO  log :29 - Deposit page is opened
+2020-11-03 00:43:05 INFO  log :31 - AccountNo is entered
+2020-11-03 00:43:05 INFO  log :33 - Amount is entered
+2020-11-03 00:43:06 INFO  log :35 - Description is added
+2020-11-03 00:43:06 INFO  log :37 - The submit is executed
+2020-11-03 00:43:10 INFO  log :43 - Test passed
+2020-11-03 00:46:55 INFO  log :64 - Page was opened
+2020-11-03 00:46:55 INFO  log :16 - Entered username
+2020-11-03 00:46:55 INFO  log :18 - Entered password
+2020-11-03 00:47:04 INFO  log :40 - Test passed
+2020-11-03 00:47:13 INFO  log :64 - Page was opened
+2020-11-03 00:47:13 INFO  log :16 - Entered username
+2020-11-03 00:47:13 INFO  log :18 - Entered password
+2020-11-03 00:47:20 INFO  log :28 - Ads was closed
+2020-11-03 00:47:20 INFO  log :30 - Deposit page is opened
+2020-11-03 00:47:20 INFO  log :32 - AccountNo is entered
+2020-11-03 00:47:21 INFO  log :34 - Amount is entered
+2020-11-03 00:47:21 INFO  log :36 - Description is added
+2020-11-03 00:47:24 INFO  log :28 - Ads was closed
+2020-11-03 00:47:25 INFO  log :30 - Deposit page is opened
+2020-11-03 00:47:25 INFO  log :32 - AccountNo is entered
+2020-11-03 00:47:25 INFO  log :34 - Amount is entered
+2020-11-03 00:47:26 INFO  log :36 - Description is added
+2020-11-03 00:47:26 INFO  log :38 - The submit is executed
+2020-11-03 00:47:29 INFO  log :44 - Test passed
+2020-11-03 00:47:31 INFO  log :28 - Ads was closed
+2020-11-03 00:47:32 INFO  log :30 - Deposit page is opened
+2020-11-03 00:47:32 INFO  log :32 - AccountNo is entered
+2020-11-03 00:47:32 INFO  log :34 - Amount is entered
+2020-11-03 00:47:32 INFO  log :36 - Description is added
+2020-11-03 00:47:36 INFO  log :28 - Ads was closed
+2020-11-03 00:47:38 INFO  log :30 - Deposit page is opened
+2020-11-03 00:47:38 INFO  log :32 - AccountNo is entered
+2020-11-03 00:47:38 INFO  log :34 - Amount is entered
+2020-11-03 00:47:38 INFO  log :36 - Description is added
+2020-11-03 00:47:38 INFO  log :38 - The submit is executed
+2020-11-03 00:47:41 INFO  log :44 - Test passed
+2020-11-03 00:47:44 INFO  log :28 - Ads was closed
+2020-11-03 00:47:45 INFO  log :30 - Deposit page is opened
+2020-11-03 00:47:45 INFO  log :32 - AccountNo is entered
+2020-11-03 00:47:45 INFO  log :34 - Amount is entered
+2020-11-03 00:47:45 INFO  log :36 - Description is added
+2020-11-03 00:47:45 INFO  log :38 - The submit is executed
+2020-11-03 00:47:48 INFO  log :44 - Test passed
+2020-11-03 00:47:51 INFO  log :28 - Ads was closed
+2020-11-03 00:47:51 INFO  log :30 - Deposit page is opened
+2020-11-03 00:47:51 INFO  log :32 - AccountNo is entered
+2020-11-03 00:47:51 INFO  log :34 - Amount is entered
+2020-11-03 00:47:52 INFO  log :36 - Description is added
+2020-11-03 00:47:52 INFO  log :38 - The submit is executed
+2020-11-03 00:47:56 INFO  log :44 - Test passed
+2020-11-03 00:49:01 INFO  log :64 - Page was opened
+2020-11-03 00:49:01 INFO  log :16 - Entered username
+2020-11-03 00:49:02 INFO  log :18 - Entered password
+2020-11-03 00:49:11 INFO  log :40 - Test passed
+2020-11-03 00:49:21 INFO  log :64 - Page was opened
+2020-11-03 00:49:21 INFO  log :16 - Entered username
+2020-11-03 00:49:21 INFO  log :18 - Entered password
+2020-11-03 00:49:31 INFO  log :28 - Ads was closed
+2020-11-03 00:49:32 INFO  log :30 - Deposit page is opened
+2020-11-03 00:49:32 INFO  log :32 - AccountNo is entered
+2020-11-03 00:49:32 INFO  log :34 - Amount is entered
+2020-11-03 00:49:32 INFO  log :36 - Description is added
+2020-11-03 00:49:32 INFO  log :38 - The submit is executed
+2020-11-03 00:49:36 INFO  log :44 - Test passed
+2020-11-03 00:49:38 INFO  log :28 - Ads was closed
+2020-11-03 00:49:39 INFO  log :30 - Deposit page is opened
+2020-11-03 00:49:39 INFO  log :32 - AccountNo is entered
+2020-11-03 00:49:39 INFO  log :34 - Amount is entered
+2020-11-03 00:49:39 INFO  log :36 - Description is added
+2020-11-03 00:49:39 INFO  log :38 - The submit is executed
+2020-11-03 00:49:43 INFO  log :44 - Test passed
+2020-11-03 00:49:47 INFO  log :28 - Ads was closed
+2020-11-03 00:49:48 INFO  log :30 - Deposit page is opened
+2020-11-03 00:49:48 INFO  log :32 - AccountNo is entered
+2020-11-03 00:49:48 INFO  log :34 - Amount is entered
+2020-11-03 00:49:48 INFO  log :36 - Description is added
+2020-11-03 00:49:48 INFO  log :38 - The submit is executed
+2020-11-03 00:49:51 INFO  log :44 - Test passed
+2020-11-03 00:49:54 INFO  log :28 - Ads was closed
+2020-11-03 00:49:54 INFO  log :30 - Deposit page is opened
+2020-11-03 00:49:55 INFO  log :32 - AccountNo is entered
+2020-11-03 00:49:55 INFO  log :34 - Amount is entered
+2020-11-03 00:49:55 INFO  log :36 - Description is added
+2020-11-03 00:49:55 INFO  log :38 - The submit is executed
+2020-11-03 00:50:43 INFO  log :48 - Test failed
+2020-11-03 00:50:47 INFO  log :28 - Ads was closed
+2020-11-03 00:50:48 INFO  log :30 - Deposit page is opened
+2020-11-03 00:50:48 INFO  log :32 - AccountNo is entered
+2020-11-03 00:50:48 INFO  log :34 - Amount is entered
+2020-11-03 00:50:48 INFO  log :36 - Description is added
+2020-11-03 00:50:48 INFO  log :38 - The submit is executed
+2020-11-03 00:50:52 INFO  log :44 - Test passed
+2020-11-03 00:50:54 INFO  log :28 - Ads was closed
+2020-11-03 00:50:55 INFO  log :30 - Deposit page is opened
+2020-11-03 00:50:55 INFO  log :32 - AccountNo is entered
+2020-11-03 00:50:55 INFO  log :34 - Amount is entered
+2020-11-03 00:50:55 INFO  log :36 - Description is added
+2020-11-03 00:50:56 INFO  log :38 - The submit is executed
+2020-11-03 00:50:59 INFO  log :44 - Test passed
+2020-11-03 00:52:12 INFO  log :64 - Page was opened
+2020-11-03 00:52:12 INFO  log :16 - Entered username
+2020-11-03 00:52:12 INFO  log :18 - Entered password
+2020-11-03 00:52:25 INFO  log :40 - Test passed
+2020-11-03 00:52:33 INFO  log :64 - Page was opened
+2020-11-03 00:52:33 INFO  log :16 - Entered username
+2020-11-03 00:52:33 INFO  log :18 - Entered password
+2020-11-03 00:52:40 INFO  log :28 - Ads was closed
+2020-11-03 00:52:40 INFO  log :30 - Deposit page is opened
+2020-11-03 00:52:40 INFO  log :32 - AccountNo is entered
+2020-11-03 00:52:40 INFO  log :34 - Amount is entered
+2020-11-03 00:52:41 INFO  log :36 - Description is added
+2020-11-03 00:52:41 INFO  log :38 - The submit is executed
+2020-11-03 00:52:44 INFO  log :44 - Test passed
+2020-11-03 00:52:46 INFO  log :28 - Ads was closed
+2020-11-03 00:52:47 INFO  log :30 - Deposit page is opened
+2020-11-03 00:52:47 INFO  log :32 - AccountNo is entered
+2020-11-03 00:52:47 INFO  log :34 - Amount is entered
+2020-11-03 00:52:48 INFO  log :36 - Description is added
+2020-11-03 00:52:48 INFO  log :38 - The submit is executed
+2020-11-03 00:52:51 INFO  log :44 - Test passed
+2020-11-03 00:52:53 INFO  log :28 - Ads was closed
+2020-11-03 00:52:54 INFO  log :30 - Deposit page is opened
+2020-11-03 00:52:54 INFO  log :32 - AccountNo is entered
+2020-11-03 00:52:54 INFO  log :34 - Amount is entered
+2020-11-03 00:52:55 INFO  log :36 - Description is added
+2020-11-03 00:52:55 INFO  log :38 - The submit is executed
+2020-11-03 00:52:58 INFO  log :44 - Test passed
+2020-11-03 00:53:00 INFO  log :28 - Ads was closed
+2020-11-03 00:53:01 INFO  log :30 - Deposit page is opened
+2020-11-03 00:53:01 INFO  log :32 - AccountNo is entered
+2020-11-03 00:53:01 INFO  log :34 - Amount is entered
+2020-11-03 00:53:02 INFO  log :36 - Description is added
+2020-11-03 00:53:02 INFO  log :38 - The submit is executed
+2020-11-03 00:53:05 INFO  log :44 - Test passed
+2020-11-03 00:53:07 INFO  log :28 - Ads was closed
+2020-11-03 00:53:08 INFO  log :30 - Deposit page is opened
+2020-11-03 00:53:08 INFO  log :32 - AccountNo is entered
+2020-11-03 00:53:08 INFO  log :34 - Amount is entered
+2020-11-03 00:53:08 INFO  log :36 - Description is added
+2020-11-03 00:53:08 INFO  log :38 - The submit is executed
+2020-11-03 00:53:12 INFO  log :44 - Test passed
+2020-11-03 00:53:14 INFO  log :28 - Ads was closed
+2020-11-03 00:53:14 INFO  log :30 - Deposit page is opened
+2020-11-03 00:53:15 INFO  log :32 - AccountNo is entered
+2020-11-03 00:53:15 INFO  log :34 - Amount is entered
+2020-11-03 00:53:15 INFO  log :36 - Description is added
+2020-11-03 00:53:15 INFO  log :38 - The submit is executed
+2020-11-03 00:53:19 INFO  log :44 - Test passed
+2020-11-03 00:54:41 INFO  log :64 - Page was opened
+2020-11-03 00:54:41 INFO  log :16 - Entered username
+2020-11-03 00:54:41 INFO  log :18 - Entered password
+2020-11-03 00:54:49 INFO  log :40 - Test passed
+2020-11-03 00:54:57 INFO  log :64 - Page was opened
+2020-11-03 00:54:57 INFO  log :16 - Entered username
+2020-11-03 00:54:58 INFO  log :18 - Entered password
+2020-11-03 00:55:04 INFO  log :28 - Ads was closed
+2020-11-03 00:55:05 INFO  log :30 - Deposit page is opened
+2020-11-03 00:55:05 INFO  log :32 - AccountNo is entered
+2020-11-03 00:55:05 INFO  log :34 - Amount is entered
+2020-11-03 00:55:06 INFO  log :36 - Description is added
+2020-11-03 00:55:06 INFO  log :38 - The submit is executed
+2020-11-03 00:55:09 INFO  log :44 - Test passed
+2020-11-03 00:55:11 INFO  log :28 - Ads was closed
+2020-11-03 00:55:12 INFO  log :30 - Deposit page is opened
+2020-11-03 00:55:12 INFO  log :32 - AccountNo is entered
+2020-11-03 00:55:12 INFO  log :34 - Amount is entered
+2020-11-03 00:55:12 INFO  log :36 - Description is added
+2020-11-03 00:55:12 INFO  log :38 - The submit is executed
+2020-11-03 00:55:15 INFO  log :44 - Test passed
+2020-11-03 00:55:18 INFO  log :28 - Ads was closed
+2020-11-03 00:55:18 INFO  log :30 - Deposit page is opened
+2020-11-03 00:55:18 INFO  log :32 - AccountNo is entered
+2020-11-03 00:55:18 INFO  log :34 - Amount is entered
+2020-11-03 00:55:19 INFO  log :36 - Description is added
+2020-11-03 00:55:19 INFO  log :38 - The submit is executed
+2020-11-03 00:55:22 INFO  log :44 - Test passed
+2020-11-03 00:55:24 INFO  log :28 - Ads was closed
+2020-11-03 00:55:25 INFO  log :30 - Deposit page is opened
+2020-11-03 00:55:25 INFO  log :32 - AccountNo is entered
+2020-11-03 00:55:25 INFO  log :34 - Amount is entered
+2020-11-03 00:55:26 INFO  log :36 - Description is added
+2020-11-03 00:55:26 INFO  log :38 - The submit is executed
+2020-11-03 00:55:29 INFO  log :44 - Test passed
+2020-11-03 00:55:31 INFO  log :28 - Ads was closed
+2020-11-03 00:55:32 INFO  log :30 - Deposit page is opened
+2020-11-03 00:55:32 INFO  log :32 - AccountNo is entered
+2020-11-03 00:55:32 INFO  log :34 - Amount is entered
+2020-11-03 00:55:32 INFO  log :36 - Description is added
+2020-11-03 00:55:32 INFO  log :38 - The submit is executed
+2020-11-03 00:55:36 INFO  log :44 - Test passed
+2020-11-03 00:55:38 INFO  log :28 - Ads was closed
+2020-11-03 00:55:39 INFO  log :30 - Deposit page is opened
+2020-11-03 00:55:39 INFO  log :32 - AccountNo is entered
+2020-11-03 00:55:39 INFO  log :34 - Amount is entered
+2020-11-03 00:55:39 INFO  log :36 - Description is added
+2020-11-03 00:55:40 INFO  log :38 - The submit is executed
+2020-11-03 00:55:44 INFO  log :44 - Test passed
+2020-11-03 00:56:10 INFO  log :64 - Page was opened
+2020-11-03 00:56:10 INFO  log :16 - Entered username
+2020-11-03 00:56:10 INFO  log :18 - Entered password
+2020-11-03 00:56:19 INFO  log :40 - Test passed
+2020-11-03 00:56:27 INFO  log :64 - Page was opened
+2020-11-03 00:56:27 INFO  log :16 - Entered username
+2020-11-03 00:56:27 INFO  log :18 - Entered password
+2020-11-03 00:56:34 INFO  log :28 - Ads was closed
+2020-11-03 00:56:34 INFO  log :30 - Deposit page is opened
+2020-11-03 00:56:34 INFO  log :32 - AccountNo is entered
+2020-11-03 00:56:34 INFO  log :34 - Amount is entered
+2020-11-03 00:56:35 INFO  log :36 - Description is added
+2020-11-03 00:56:38 INFO  log :28 - Ads was closed
+2020-11-03 00:56:38 INFO  log :30 - Deposit page is opened
+2020-11-03 00:56:39 INFO  log :32 - AccountNo is entered
+2020-11-03 00:56:39 INFO  log :34 - Amount is entered
+2020-11-03 00:56:39 INFO  log :36 - Description is added
+2020-11-03 00:56:39 INFO  log :38 - The submit is executed
+2020-11-03 00:56:42 INFO  log :44 - Test passed
+2020-11-03 00:56:44 INFO  log :28 - Ads was closed
+2020-11-03 00:56:45 INFO  log :30 - Deposit page is opened
+2020-11-03 00:56:45 INFO  log :32 - AccountNo is entered
+2020-11-03 00:56:45 INFO  log :34 - Amount is entered
+2020-11-03 00:56:45 INFO  log :36 - Description is added
+2020-11-03 00:56:49 INFO  log :28 - Ads was closed
+2020-11-03 00:56:50 INFO  log :30 - Deposit page is opened
+2020-11-03 00:56:50 INFO  log :32 - AccountNo is entered
+2020-11-03 00:56:50 INFO  log :34 - Amount is entered
+2020-11-03 00:56:50 INFO  log :36 - Description is added
+2020-11-03 00:56:50 INFO  log :38 - The submit is executed
+2020-11-03 00:56:53 INFO  log :44 - Test passed
+2020-11-03 00:56:56 INFO  log :28 - Ads was closed
+2020-11-03 00:56:56 INFO  log :30 - Deposit page is opened
+2020-11-03 00:56:56 INFO  log :32 - AccountNo is entered
+2020-11-03 00:56:56 INFO  log :34 - Amount is entered
+2020-11-03 00:56:56 INFO  log :36 - Description is added
+2020-11-03 00:56:57 INFO  log :38 - The submit is executed
+2020-11-03 00:57:00 INFO  log :44 - Test passed
+2020-11-03 00:57:02 INFO  log :28 - Ads was closed
+2020-11-03 00:57:03 INFO  log :30 - Deposit page is opened
+2020-11-03 00:57:03 INFO  log :32 - AccountNo is entered
+2020-11-03 00:57:03 INFO  log :34 - Amount is entered
+2020-11-03 00:57:03 INFO  log :36 - Description is added
+2020-11-03 00:57:04 INFO  log :38 - The submit is executed
+2020-11-03 00:57:07 INFO  log :44 - Test passed
+2020-11-03 01:12:43 INFO  log :64 - Page was opened
+2020-11-03 01:12:43 INFO  log :16 - Entered username
+2020-11-03 01:12:43 INFO  log :18 - Entered password
+2020-11-03 01:13:09 INFO  log :64 - Page was opened
+2020-11-03 01:13:09 INFO  log :16 - Entered username
+2020-11-03 01:13:09 INFO  log :18 - Entered password
+2020-11-03 01:13:16 INFO  log :28 - Ads was closed
+2020-11-03 01:13:16 INFO  log :30 - Deposit page is opened
+2020-11-03 01:13:16 INFO  log :32 - AccountNo is entered
+2020-11-03 01:13:17 INFO  log :34 - Amount is entered
+2020-11-03 01:13:17 INFO  log :36 - Description is added
+2020-11-03 01:13:29 INFO  log :28 - Ads was closed
+2020-11-03 01:13:30 INFO  log :30 - Deposit page is opened
+2020-11-03 01:13:30 INFO  log :32 - AccountNo is entered
+2020-11-03 01:13:30 INFO  log :34 - Amount is entered
+2020-11-03 01:13:30 INFO  log :36 - Description is added
+2020-11-03 01:13:43 INFO  log :28 - Ads was closed
+2020-11-03 01:13:44 INFO  log :30 - Deposit page is opened
+2020-11-03 01:13:44 INFO  log :32 - AccountNo is entered
+2020-11-03 01:13:44 INFO  log :34 - Amount is entered
+2020-11-03 01:13:44 INFO  log :36 - Description is added
+2020-11-03 01:13:56 INFO  log :28 - Ads was closed
+2020-11-03 01:13:57 INFO  log :30 - Deposit page is opened
+2020-11-03 01:13:57 INFO  log :32 - AccountNo is entered
+2020-11-03 01:13:57 INFO  log :34 - Amount is entered
+2020-11-03 01:13:57 INFO  log :36 - Description is added
+2020-11-03 01:14:10 INFO  log :28 - Ads was closed
+2020-11-03 01:14:10 INFO  log :30 - Deposit page is opened
+2020-11-03 01:14:10 INFO  log :32 - AccountNo is entered
+2020-11-03 01:14:11 INFO  log :34 - Amount is entered
+2020-11-03 01:14:11 INFO  log :36 - Description is added
+2020-11-03 01:14:23 INFO  log :28 - Ads was closed
+2020-11-03 01:14:24 INFO  log :30 - Deposit page is opened
+2020-11-03 01:14:24 INFO  log :32 - AccountNo is entered
+2020-11-03 01:14:24 INFO  log :34 - Amount is entered
+2020-11-03 01:14:24 INFO  log :36 - Description is added
+2020-11-03 01:19:19 INFO  log :64 - Page was opened
+2020-11-03 01:19:19 INFO  log :16 - Entered username
+2020-11-03 01:19:19 INFO  log :18 - Entered password
+2020-11-03 01:19:27 INFO  log :40 - Test passed
+2020-11-03 01:19:35 INFO  log :64 - Page was opened
+2020-11-03 01:19:36 INFO  log :16 - Entered username
+2020-11-03 01:19:36 INFO  log :18 - Entered password
+2020-11-03 01:19:42 INFO  log :28 - Ads was closed
+2020-11-03 01:19:43 INFO  log :30 - Deposit page is opened
+2020-11-03 01:19:43 INFO  log :32 - AccountNo is entered
+2020-11-03 01:19:43 INFO  log :34 - Amount is entered
+2020-11-03 01:19:44 INFO  log :36 - Description is added
+2020-11-03 01:19:47 INFO  log :28 - Ads was closed
+2020-11-03 01:19:48 INFO  log :30 - Deposit page is opened
+2020-11-03 01:19:48 INFO  log :32 - AccountNo is entered
+2020-11-03 01:19:48 INFO  log :34 - Amount is entered
+2020-11-03 01:19:48 INFO  log :36 - Description is added
+2020-11-03 01:19:48 INFO  log :38 - The submit is executed
+2020-11-03 01:19:52 INFO  log :48 - Test failed
+2020-11-03 01:19:54 INFO  log :28 - Ads was closed
+2020-11-03 01:19:54 INFO  log :30 - Deposit page is opened
+2020-11-03 01:19:55 INFO  log :32 - AccountNo is entered
+2020-11-03 01:19:55 INFO  log :34 - Amount is entered
+2020-11-03 01:19:55 INFO  log :36 - Description is added
+2020-11-03 01:19:59 INFO  log :28 - Ads was closed
+2020-11-03 01:19:59 INFO  log :30 - Deposit page is opened
+2020-11-03 01:20:00 INFO  log :32 - AccountNo is entered
+2020-11-03 01:20:00 INFO  log :34 - Amount is entered
+2020-11-03 01:20:00 INFO  log :36 - Description is added
+2020-11-03 01:20:00 INFO  log :38 - The submit is executed
+2020-11-03 01:20:03 INFO  log :44 - Test passed
+2020-11-03 01:20:05 INFO  log :28 - Ads was closed
+2020-11-03 01:20:06 INFO  log :30 - Deposit page is opened
+2020-11-03 01:20:06 INFO  log :32 - AccountNo is entered
+2020-11-03 01:20:06 INFO  log :34 - Amount is entered
+2020-11-03 01:20:07 INFO  log :36 - Description is added
+2020-11-03 01:20:07 INFO  log :38 - The submit is executed
+2020-11-03 01:20:10 INFO  log :44 - Test passed
+2020-11-03 01:20:12 INFO  log :28 - Ads was closed
+2020-11-03 01:20:13 INFO  log :30 - Deposit page is opened
+2020-11-03 01:20:13 INFO  log :32 - AccountNo is entered
+2020-11-03 01:20:13 INFO  log :34 - Amount is entered
+2020-11-03 01:20:14 INFO  log :36 - Description is added
+2020-11-03 01:20:14 INFO  log :38 - The submit is executed
+2020-11-03 01:20:18 INFO  log :44 - Test passed
+2020-11-03 01:22:17 INFO  log :64 - Page was opened
+2020-11-03 01:22:17 INFO  log :16 - Entered username
+2020-11-03 01:22:17 INFO  log :18 - Entered password
+2020-11-03 01:22:26 INFO  log :40 - Test passed
+2020-11-03 01:22:33 INFO  log :64 - Page was opened
+2020-11-03 01:22:34 INFO  log :16 - Entered username
+2020-11-03 01:22:34 INFO  log :18 - Entered password
+2020-11-03 01:22:40 INFO  log :28 - Ads was closed
+2020-11-03 01:22:40 INFO  log :30 - Deposit page is opened
+2020-11-03 01:22:41 INFO  log :32 - AccountNo is entered
+2020-11-03 01:22:41 INFO  log :34 - Amount is entered
+2020-11-03 01:22:41 INFO  log :36 - Description is added
+2020-11-03 01:22:45 INFO  log :28 - Ads was closed
+2020-11-03 01:22:45 INFO  log :30 - Deposit page is opened
+2020-11-03 01:22:45 INFO  log :32 - AccountNo is entered
+2020-11-03 01:22:45 INFO  log :34 - Amount is entered
+2020-11-03 01:22:46 INFO  log :36 - Description is added
+2020-11-03 01:22:46 INFO  log :38 - The submit is executed
+2020-11-03 01:22:49 INFO  log :44 - Test passed
+2020-11-03 01:22:51 INFO  log :28 - Ads was closed
+2020-11-03 01:22:52 INFO  log :30 - Deposit page is opened
+2020-11-03 01:22:52 INFO  log :32 - AccountNo is entered
+2020-11-03 01:22:52 INFO  log :34 - Amount is entered
+2020-11-03 01:22:52 INFO  log :36 - Description is added
+2020-11-03 01:22:56 INFO  log :28 - Ads was closed
+2020-11-03 01:22:57 INFO  log :30 - Deposit page is opened
+2020-11-03 01:22:57 INFO  log :32 - AccountNo is entered
+2020-11-03 01:22:57 INFO  log :34 - Amount is entered
+2020-11-03 01:22:57 INFO  log :36 - Description is added
+2020-11-03 01:22:57 INFO  log :38 - The submit is executed
+2020-11-03 01:23:00 INFO  log :44 - Test passed
+2020-11-03 01:23:03 INFO  log :28 - Ads was closed
+2020-11-03 01:23:03 INFO  log :30 - Deposit page is opened
+2020-11-03 01:23:03 INFO  log :32 - AccountNo is entered
+2020-11-03 01:23:03 INFO  log :34 - Amount is entered
+2020-11-03 01:23:04 INFO  log :36 - Description is added
+2020-11-03 01:23:04 INFO  log :38 - The submit is executed
+2020-11-03 01:23:07 INFO  log :44 - Test passed
+2020-11-03 01:23:09 INFO  log :28 - Ads was closed
+2020-11-03 01:23:10 INFO  log :30 - Deposit page is opened
+2020-11-03 01:23:10 INFO  log :32 - AccountNo is entered
+2020-11-03 01:23:10 INFO  log :34 - Amount is entered
+2020-11-03 01:23:10 INFO  log :36 - Description is added
+2020-11-03 01:23:11 INFO  log :38 - The submit is executed
+2020-11-03 01:23:15 INFO  log :44 - Test passed
+2020-11-03 01:28:31 INFO  log :64 - Page was opened
+2020-11-03 01:28:31 INFO  log :16 - Entered username
+2020-11-03 01:28:31 INFO  log :18 - Entered password
+2020-11-03 01:28:40 INFO  log :40 - Test passed
+2020-11-03 01:30:40 INFO  log :64 - Page was opened
+2020-11-03 01:30:40 INFO  log :16 - Entered username
+2020-11-03 01:30:40 INFO  log :18 - Entered password
+2020-11-03 01:30:48 INFO  log :40 - Test passed
+2020-11-03 01:30:58 INFO  log :64 - Page was opened
+2020-11-03 01:30:58 INFO  log :16 - Entered username
+2020-11-03 01:30:58 INFO  log :18 - Entered password
+2020-11-03 01:31:04 INFO  log :28 - Ads was closed
+2020-11-03 01:31:05 INFO  log :30 - Deposit page is opened
+2020-11-03 01:31:05 INFO  log :32 - AccountNo is entered
+2020-11-03 01:31:05 INFO  log :34 - Amount is entered
+2020-11-03 01:31:05 INFO  log :36 - Description is added
+2020-11-03 01:31:06 INFO  log :38 - The submit is executed
+2020-11-03 01:31:09 INFO  log :44 - Test passed
+2020-11-03 01:31:11 INFO  log :28 - Ads was closed
+2020-11-03 01:31:12 INFO  log :30 - Deposit page is opened
+2020-11-03 01:31:12 INFO  log :32 - AccountNo is entered
+2020-11-03 01:31:12 INFO  log :34 - Amount is entered
+2020-11-03 01:31:12 INFO  log :36 - Description is added
+2020-11-03 01:31:13 INFO  log :38 - The submit is executed
+2020-11-03 01:31:16 INFO  log :44 - Test passed
+2020-11-03 01:31:18 INFO  log :28 - Ads was closed
+2020-11-03 01:31:18 INFO  log :30 - Deposit page is opened
+2020-11-03 01:31:19 INFO  log :32 - AccountNo is entered
+2020-11-03 01:31:19 INFO  log :34 - Amount is entered
+2020-11-03 01:31:19 INFO  log :36 - Description is added
+2020-11-03 01:31:19 INFO  log :38 - The submit is executed
+2020-11-03 01:31:22 INFO  log :44 - Test passed
+2020-11-03 01:31:24 INFO  log :28 - Ads was closed
+2020-11-03 01:31:25 INFO  log :30 - Deposit page is opened
+2020-11-03 01:31:25 INFO  log :32 - AccountNo is entered
+2020-11-03 01:31:25 INFO  log :34 - Amount is entered
+2020-11-03 01:31:26 INFO  log :36 - Description is added
+2020-11-03 01:31:26 INFO  log :38 - The submit is executed
+2020-11-03 01:31:29 INFO  log :44 - Test passed
+2020-11-03 01:31:31 INFO  log :28 - Ads was closed
+2020-11-03 01:31:32 INFO  log :30 - Deposit page is opened
+2020-11-03 01:31:32 INFO  log :32 - AccountNo is entered
+2020-11-03 01:31:32 INFO  log :34 - Amount is entered
+2020-11-03 01:31:32 INFO  log :36 - Description is added
+2020-11-03 01:31:33 INFO  log :38 - The submit is executed
+2020-11-03 01:31:36 INFO  log :44 - Test passed
+2020-11-03 01:31:38 INFO  log :28 - Ads was closed
+2020-11-03 01:31:39 INFO  log :30 - Deposit page is opened
+2020-11-03 01:31:39 INFO  log :32 - AccountNo is entered
+2020-11-03 01:31:39 INFO  log :34 - Amount is entered
+2020-11-03 01:31:39 INFO  log :36 - Description is added
+2020-11-03 01:31:40 INFO  log :38 - The submit is executed
+2020-11-03 01:31:43 INFO  log :44 - Test passed
+2020-11-03 01:32:26 INFO  log :64 - Page was opened
+2020-11-03 01:32:26 INFO  log :16 - Entered username
+2020-11-03 01:32:26 INFO  log :18 - Entered password
+2020-11-03 01:32:36 INFO  log :40 - Test passed
+2020-11-03 01:32:44 INFO  log :64 - Page was opened
+2020-11-03 01:32:44 INFO  log :16 - Entered username
+2020-11-03 01:32:44 INFO  log :18 - Entered password
+2020-11-03 01:32:51 INFO  log :28 - Ads was closed
+2020-11-03 01:32:52 INFO  log :30 - Deposit page is opened
+2020-11-03 01:32:52 INFO  log :32 - AccountNo is entered
+2020-11-03 01:32:52 INFO  log :34 - Amount is entered
+2020-11-03 01:32:52 INFO  log :36 - Description is added
+2020-11-03 01:32:52 INFO  log :38 - The submit is executed
+2020-11-03 01:32:56 INFO  log :44 - Test passed
+2020-11-03 01:32:58 INFO  log :28 - Ads was closed
+2020-11-03 01:32:58 INFO  log :30 - Deposit page is opened
+2020-11-03 01:32:58 INFO  log :32 - AccountNo is entered
+2020-11-03 01:32:59 INFO  log :34 - Amount is entered
+2020-11-03 01:32:59 INFO  log :36 - Description is added
+2020-11-03 01:32:59 INFO  log :38 - The submit is executed
+2020-11-03 01:33:02 INFO  log :44 - Test passed
+2020-11-03 01:33:04 INFO  log :28 - Ads was closed
+2020-11-03 01:33:05 INFO  log :30 - Deposit page is opened
+2020-11-03 01:33:05 INFO  log :32 - AccountNo is entered
+2020-11-03 01:33:05 INFO  log :34 - Amount is entered
+2020-11-03 01:33:05 INFO  log :36 - Description is added
+2020-11-03 01:33:06 INFO  log :38 - The submit is executed
+2020-11-03 01:33:09 INFO  log :44 - Test passed
+2020-11-03 01:33:11 INFO  log :28 - Ads was closed
+2020-11-03 01:33:11 INFO  log :30 - Deposit page is opened
+2020-11-03 01:33:12 INFO  log :32 - AccountNo is entered
+2020-11-03 01:33:12 INFO  log :34 - Amount is entered
+2020-11-03 01:33:12 INFO  log :36 - Description is added
+2020-11-03 01:33:12 INFO  log :38 - The submit is executed
+2020-11-03 01:33:15 INFO  log :44 - Test passed
+2020-11-03 01:33:17 INFO  log :28 - Ads was closed
+2020-11-03 01:33:18 INFO  log :30 - Deposit page is opened
+2020-11-03 01:33:18 INFO  log :32 - AccountNo is entered
+2020-11-03 01:33:18 INFO  log :34 - Amount is entered
+2020-11-03 01:33:18 INFO  log :36 - Description is added
+2020-11-03 01:33:19 INFO  log :38 - The submit is executed
+2020-11-03 01:33:22 INFO  log :44 - Test passed
+2020-11-03 01:33:24 INFO  log :28 - Ads was closed
+2020-11-03 01:33:25 INFO  log :30 - Deposit page is opened
+2020-11-03 01:33:25 INFO  log :32 - AccountNo is entered
+2020-11-03 01:33:25 INFO  log :34 - Amount is entered
+2020-11-03 01:33:25 INFO  log :36 - Description is added
+2020-11-03 01:33:26 INFO  log :38 - The submit is executed
+2020-11-03 01:33:29 INFO  log :44 - Test passed
+2020-11-03 01:34:01 INFO  log :64 - Page was opened
+2020-11-03 01:34:01 INFO  log :16 - Entered username
+2020-11-03 01:34:01 INFO  log :18 - Entered password
+2020-11-03 01:34:09 INFO  log :40 - Test passed
+2020-11-03 01:34:18 INFO  log :64 - Page was opened
+2020-11-03 01:34:18 INFO  log :16 - Entered username
+2020-11-03 01:34:18 INFO  log :18 - Entered password
+2020-11-03 01:34:25 INFO  log :28 - Ads was closed
+2020-11-03 01:34:25 INFO  log :30 - Deposit page is opened
+2020-11-03 01:34:25 INFO  log :32 - AccountNo is entered
+2020-11-03 01:34:25 INFO  log :34 - Amount is entered
+2020-11-03 01:34:26 INFO  log :36 - Description is added
+2020-11-03 01:34:26 INFO  log :38 - The submit is executed
+2020-11-03 01:34:29 INFO  log :44 - Test passed
+2020-11-03 01:34:31 INFO  log :28 - Ads was closed
+2020-11-03 01:34:32 INFO  log :30 - Deposit page is opened
+2020-11-03 01:34:32 INFO  log :32 - AccountNo is entered
+2020-11-03 01:34:32 INFO  log :34 - Amount is entered
+2020-11-03 01:34:32 INFO  log :36 - Description is added
+2020-11-03 01:34:33 INFO  log :38 - The submit is executed
+2020-11-03 01:34:36 INFO  log :44 - Test passed
+2020-11-03 01:34:38 INFO  log :28 - Ads was closed
+2020-11-03 01:34:39 INFO  log :30 - Deposit page is opened
+2020-11-03 01:34:39 INFO  log :32 - AccountNo is entered
+2020-11-03 01:34:39 INFO  log :34 - Amount is entered
+2020-11-03 01:34:39 INFO  log :36 - Description is added
+2020-11-03 01:34:39 INFO  log :38 - The submit is executed
+2020-11-03 01:34:42 INFO  log :44 - Test passed
+2020-11-03 01:34:45 INFO  log :28 - Ads was closed
+2020-11-03 01:34:45 INFO  log :30 - Deposit page is opened
+2020-11-03 01:34:46 INFO  log :32 - AccountNo is entered
+2020-11-03 01:34:46 INFO  log :34 - Amount is entered
+2020-11-03 01:34:46 INFO  log :36 - Description is added
+2020-11-03 01:34:46 INFO  log :38 - The submit is executed
+2020-11-03 01:34:49 INFO  log :44 - Test passed
+2020-11-03 01:34:52 INFO  log :28 - Ads was closed
+2020-11-03 01:34:53 INFO  log :30 - Deposit page is opened
+2020-11-03 01:34:53 INFO  log :32 - AccountNo is entered
+2020-11-03 01:34:53 INFO  log :34 - Amount is entered
+2020-11-03 01:34:53 INFO  log :36 - Description is added
+2020-11-03 01:34:53 INFO  log :38 - The submit is executed
+2020-11-03 01:34:56 INFO  log :44 - Test passed
+2020-11-03 01:34:59 INFO  log :28 - Ads was closed
+2020-11-03 01:34:59 INFO  log :30 - Deposit page is opened
+2020-11-03 01:34:59 INFO  log :32 - AccountNo is entered
+2020-11-03 01:34:59 INFO  log :34 - Amount is entered
+2020-11-03 01:35:00 INFO  log :36 - Description is added
+2020-11-03 01:38:11 INFO  log :64 - Page was opened
+2020-11-03 01:38:12 INFO  log :16 - Entered username
+2020-11-03 01:38:12 INFO  log :18 - Entered password
+2020-11-03 01:38:20 INFO  log :40 - Test passed
+2020-11-03 01:38:28 INFO  log :64 - Page was opened
+2020-11-03 01:38:28 INFO  log :16 - Entered username
+2020-11-03 01:38:28 INFO  log :18 - Entered password
+2020-11-03 01:38:35 INFO  log :28 - Ads was closed
+2020-11-03 01:38:35 INFO  log :30 - Deposit page is opened
+2020-11-03 01:38:35 INFO  log :32 - AccountNo is entered
+2020-11-03 01:38:36 INFO  log :34 - Amount is entered
+2020-11-03 01:38:36 INFO  log :36 - Description is added
+2020-11-03 01:38:36 INFO  log :38 - The submit is executed
+2020-11-03 01:38:39 INFO  log :44 - Test passed
+2020-11-03 01:38:41 INFO  log :28 - Ads was closed
+2020-11-03 01:38:42 INFO  log :30 - Deposit page is opened
+2020-11-03 01:38:43 INFO  log :32 - AccountNo is entered
+2020-11-03 01:38:43 INFO  log :34 - Amount is entered
+2020-11-03 01:38:43 INFO  log :36 - Description is added
+2020-11-03 01:38:43 INFO  log :38 - The submit is executed
+2020-11-03 01:38:46 INFO  log :44 - Test passed
+2020-11-03 01:38:48 INFO  log :28 - Ads was closed
+2020-11-03 01:38:49 INFO  log :30 - Deposit page is opened
+2020-11-03 01:38:49 INFO  log :32 - AccountNo is entered
+2020-11-03 01:38:49 INFO  log :34 - Amount is entered
+2020-11-03 01:38:49 INFO  log :36 - Description is added
+2020-11-03 01:38:50 INFO  log :38 - The submit is executed
+2020-11-03 01:38:53 INFO  log :44 - Test passed
+2020-11-03 01:38:55 INFO  log :28 - Ads was closed
+2020-11-03 01:38:56 INFO  log :30 - Deposit page is opened
+2020-11-03 01:38:56 INFO  log :32 - AccountNo is entered
+2020-11-03 01:38:56 INFO  log :34 - Amount is entered
+2020-11-03 01:38:57 INFO  log :36 - Description is added
+2020-11-03 01:38:57 INFO  log :38 - The submit is executed
+2020-11-03 01:39:00 INFO  log :44 - Test passed
+2020-11-03 01:39:02 INFO  log :28 - Ads was closed
+2020-11-03 01:39:03 INFO  log :30 - Deposit page is opened
+2020-11-03 01:39:03 INFO  log :32 - AccountNo is entered
+2020-11-03 01:39:03 INFO  log :34 - Amount is entered
+2020-11-03 01:39:03 INFO  log :36 - Description is added
+2020-11-03 01:39:04 INFO  log :38 - The submit is executed
+2020-11-03 01:39:07 INFO  log :44 - Test passed
+2020-11-03 01:40:15 INFO  log :64 - Page was opened
+2020-11-03 01:40:16 INFO  log :16 - Entered username
+2020-11-03 01:40:16 INFO  log :18 - Entered password
+2020-11-03 01:40:25 INFO  log :40 - Test passed
+2020-11-03 01:40:33 INFO  log :64 - Page was opened
+2020-11-03 01:40:33 INFO  log :16 - Entered username
+2020-11-03 01:40:33 INFO  log :18 - Entered password
+2020-11-03 01:40:40 INFO  log :28 - Ads was closed
+2020-11-03 01:40:40 INFO  log :30 - Deposit page is opened
+2020-11-03 01:40:41 INFO  log :32 - AccountNo is entered
+2020-11-03 01:40:41 INFO  log :34 - Amount is entered
+2020-11-03 01:40:41 INFO  log :36 - Description is added
+2020-11-03 01:40:41 INFO  log :38 - The submit is executed
+2020-11-03 01:40:44 INFO  log :44 - Test passed
+2020-11-03 01:40:46 INFO  log :28 - Ads was closed
+2020-11-03 01:40:47 INFO  log :30 - Deposit page is opened
+2020-11-03 01:40:47 INFO  log :32 - AccountNo is entered
+2020-11-03 01:40:47 INFO  log :34 - Amount is entered
+2020-11-03 01:40:47 INFO  log :36 - Description is added
+2020-11-03 01:40:48 INFO  log :38 - The submit is executed
+2020-11-03 01:40:51 INFO  log :44 - Test passed
+2020-11-03 01:40:53 INFO  log :28 - Ads was closed
+2020-11-03 01:40:54 INFO  log :30 - Deposit page is opened
+2020-11-03 01:40:54 INFO  log :32 - AccountNo is entered
+2020-11-03 01:40:54 INFO  log :34 - Amount is entered
+2020-11-03 01:40:54 INFO  log :36 - Description is added
+2020-11-03 01:40:55 INFO  log :38 - The submit is executed
+2020-11-03 01:40:58 INFO  log :44 - Test passed
+2020-11-03 01:41:00 INFO  log :28 - Ads was closed
+2020-11-03 01:41:01 INFO  log :30 - Deposit page is opened
+2020-11-03 01:41:01 INFO  log :32 - AccountNo is entered
+2020-11-03 01:41:01 INFO  log :34 - Amount is entered
+2020-11-03 01:41:01 INFO  log :36 - Description is added
+2020-11-03 01:41:01 INFO  log :38 - The submit is executed
+2020-11-03 01:43:14 INFO  log :64 - Page was opened
+2020-11-03 01:43:15 INFO  log :16 - Entered username
+2020-11-03 01:43:15 INFO  log :18 - Entered password
+2020-11-03 01:43:23 INFO  log :40 - Test passed
+2020-11-03 01:43:31 INFO  log :64 - Page was opened
+2020-11-03 01:43:31 INFO  log :16 - Entered username
+2020-11-03 01:43:32 INFO  log :18 - Entered password
+2020-11-03 01:43:38 INFO  log :28 - Ads was closed
+2020-11-03 01:43:39 INFO  log :30 - Deposit page is opened
+2020-11-03 01:43:39 INFO  log :32 - AccountNo is entered
+2020-11-03 01:43:39 INFO  log :34 - Amount is entered
+2020-11-03 01:43:39 INFO  log :36 - Description is added
+2020-11-03 01:43:39 INFO  log :38 - The submit is executed
+2020-11-03 01:43:43 INFO  log :44 - Test passed
+2020-11-03 01:43:45 INFO  log :28 - Ads was closed
+2020-11-03 01:43:45 INFO  log :30 - Deposit page is opened
+2020-11-03 01:43:45 INFO  log :32 - AccountNo is entered
+2020-11-03 01:43:46 INFO  log :34 - Amount is entered
+2020-11-03 01:43:46 INFO  log :36 - Description is added
+2020-11-03 01:43:46 INFO  log :38 - The submit is executed
+2020-11-03 01:43:49 INFO  log :44 - Test passed
+2020-11-03 01:43:51 INFO  log :28 - Ads was closed
+2020-11-03 01:43:52 INFO  log :30 - Deposit page is opened
+2020-11-03 01:43:52 INFO  log :32 - AccountNo is entered
+2020-11-03 01:43:52 INFO  log :34 - Amount is entered
+2020-11-03 01:43:53 INFO  log :36 - Description is added
+2020-11-03 01:43:53 INFO  log :38 - The submit is executed
+2020-11-03 01:43:56 INFO  log :44 - Test passed
+2020-11-03 01:43:58 INFO  log :28 - Ads was closed
+2020-11-03 01:43:59 INFO  log :30 - Deposit page is opened
+2020-11-03 01:43:59 INFO  log :32 - AccountNo is entered
+2020-11-03 01:43:59 INFO  log :34 - Amount is entered
+2020-11-03 01:43:59 INFO  log :36 - Description is added
+2020-11-03 01:43:59 INFO  log :38 - The submit is executed
+2020-11-03 01:44:02 INFO  log :44 - Test passed
+2020-11-03 01:44:04 INFO  log :28 - Ads was closed
+2020-11-03 01:44:05 INFO  log :30 - Deposit page is opened
+2020-11-03 01:44:05 INFO  log :32 - AccountNo is entered
+2020-11-03 01:44:05 INFO  log :34 - Amount is entered
+2020-11-03 01:44:05 INFO  log :36 - Description is added
+2020-11-03 01:44:05 INFO  log :38 - The submit is executed
+2020-11-03 01:44:09 INFO  log :44 - Test passed
+2020-11-03 01:44:11 INFO  log :28 - Ads was closed
+2020-11-03 01:44:12 INFO  log :30 - Deposit page is opened
+2020-11-03 01:44:12 INFO  log :32 - AccountNo is entered
+2020-11-03 01:44:12 INFO  log :34 - Amount is entered
+2020-11-03 01:44:12 INFO  log :36 - Description is added
+2020-11-03 01:44:12 INFO  log :38 - The submit is executed
+2020-11-03 01:44:16 INFO  log :44 - Test passed
+2020-11-03 01:44:53 INFO  log :64 - Page was opened
+2020-11-03 01:44:53 INFO  log :16 - Entered username
+2020-11-03 01:44:53 INFO  log :18 - Entered password
+2020-11-03 01:45:02 INFO  log :40 - Test passed
+2020-11-03 01:45:12 INFO  log :64 - Page was opened
+2020-11-03 01:45:12 INFO  log :16 - Entered username
+2020-11-03 01:45:12 INFO  log :18 - Entered password
+2020-11-03 01:45:19 INFO  log :28 - Ads was closed
+2020-11-03 01:45:20 INFO  log :30 - Deposit page is opened
+2020-11-03 01:45:20 INFO  log :32 - AccountNo is entered
+2020-11-03 01:45:20 INFO  log :34 - Amount is entered
+2020-11-03 01:45:20 INFO  log :36 - Description is added
+2020-11-03 01:45:21 INFO  log :38 - The submit is executed
+2020-11-03 01:45:24 INFO  log :44 - Test passed
+2020-11-03 01:45:26 INFO  log :28 - Ads was closed
+2020-11-03 01:45:26 INFO  log :30 - Deposit page is opened
+2020-11-03 01:45:27 INFO  log :32 - AccountNo is entered
+2020-11-03 01:45:27 INFO  log :34 - Amount is entered
+2020-11-03 01:45:27 INFO  log :36 - Description is added
+2020-11-03 01:45:27 INFO  log :38 - The submit is executed
+2020-11-03 01:45:30 INFO  log :44 - Test passed
+2020-11-03 01:45:32 INFO  log :28 - Ads was closed
+2020-11-03 01:45:33 INFO  log :30 - Deposit page is opened
+2020-11-03 01:45:33 INFO  log :32 - AccountNo is entered
+2020-11-03 01:45:33 INFO  log :34 - Amount is entered
+2020-11-03 01:45:33 INFO  log :36 - Description is added
+2020-11-03 01:45:34 INFO  log :38 - The submit is executed
+2020-11-03 01:45:37 INFO  log :44 - Test passed
+2020-11-03 01:45:39 INFO  log :28 - Ads was closed
+2020-11-03 01:45:40 INFO  log :30 - Deposit page is opened
+2020-11-03 01:45:40 INFO  log :32 - AccountNo is entered
+2020-11-03 01:45:40 INFO  log :34 - Amount is entered
+2020-11-03 01:45:40 INFO  log :36 - Description is added
+2020-11-03 01:45:41 INFO  log :38 - The submit is executed
+2020-11-03 01:45:44 INFO  log :44 - Test passed
+2020-11-03 01:45:46 INFO  log :28 - Ads was closed
+2020-11-03 01:45:47 INFO  log :30 - Deposit page is opened
+2020-11-03 01:45:47 INFO  log :32 - AccountNo is entered
+2020-11-03 01:45:47 INFO  log :34 - Amount is entered
+2020-11-03 01:45:47 INFO  log :36 - Description is added
+2020-11-03 01:45:47 INFO  log :38 - The submit is executed
+2020-11-03 01:45:50 INFO  log :44 - Test passed
+2020-11-03 01:45:53 INFO  log :28 - Ads was closed
+2020-11-03 01:45:53 INFO  log :30 - Deposit page is opened
+2020-11-03 01:45:53 INFO  log :32 - AccountNo is entered
+2020-11-03 01:45:53 INFO  log :34 - Amount is entered
+2020-11-03 01:45:53 INFO  log :36 - Description is added
+2020-11-03 01:45:54 INFO  log :38 - The submit is executed
+2020-11-03 01:45:58 INFO  log :44 - Test passed
+2020-11-03 23:22:20 INFO  log :64 - Page was opened
+2020-11-03 23:22:21 INFO  log :16 - Entered username
+2020-11-03 23:22:22 INFO  log :18 - Entered password
+2020-11-03 23:22:31 INFO  log :40 - Test passed
+2020-11-03 23:22:40 INFO  log :64 - Page was opened
+2020-11-03 23:22:40 INFO  log :16 - Entered username
+2020-11-03 23:22:40 INFO  log :18 - Entered password
+2020-11-03 23:22:47 INFO  log :28 - Ads was closed
+2020-11-03 23:22:47 INFO  log :30 - Deposit page is opened
+2020-11-03 23:22:47 INFO  log :32 - AccountNo is entered
+2020-11-03 23:22:48 INFO  log :34 - Amount is entered
+2020-11-03 23:22:48 INFO  log :36 - Description is added
+2020-11-03 23:22:48 INFO  log :38 - The submit is executed
+2020-11-03 23:22:51 INFO  log :44 - Test passed
+2020-11-03 23:22:53 INFO  log :28 - Ads was closed
+2020-11-03 23:22:54 INFO  log :30 - Deposit page is opened
+2020-11-03 23:22:54 INFO  log :32 - AccountNo is entered
+2020-11-03 23:22:54 INFO  log :34 - Amount is entered
+2020-11-03 23:22:55 INFO  log :36 - Description is added
+2020-11-03 23:22:55 INFO  log :38 - The submit is executed
+2020-11-03 23:22:58 INFO  log :44 - Test passed
+2020-11-03 23:23:00 INFO  log :28 - Ads was closed
+2020-11-03 23:23:00 INFO  log :30 - Deposit page is opened
+2020-11-03 23:23:01 INFO  log :32 - AccountNo is entered
+2020-11-03 23:23:01 INFO  log :34 - Amount is entered
+2020-11-03 23:23:01 INFO  log :36 - Description is added
+2020-11-03 23:23:01 INFO  log :38 - The submit is executed
+2020-11-03 23:23:04 INFO  log :44 - Test passed
+2020-11-03 23:23:06 INFO  log :28 - Ads was closed
+2020-11-03 23:23:07 INFO  log :30 - Deposit page is opened
+2020-11-03 23:23:07 INFO  log :32 - AccountNo is entered
+2020-11-03 23:23:07 INFO  log :34 - Amount is entered
+2020-11-03 23:23:08 INFO  log :36 - Description is added
+2020-11-03 23:23:08 INFO  log :38 - The submit is executed
+2020-11-03 23:23:11 INFO  log :44 - Test passed
+2020-11-03 23:23:13 INFO  log :28 - Ads was closed
+2020-11-03 23:23:14 INFO  log :30 - Deposit page is opened
+2020-11-03 23:23:14 INFO  log :32 - AccountNo is entered
+2020-11-03 23:23:14 INFO  log :34 - Amount is entered
+2020-11-03 23:23:14 INFO  log :36 - Description is added
+2020-11-03 23:23:15 INFO  log :38 - The submit is executed
+2020-11-03 23:23:20 INFO  log :44 - Test passed
+2020-11-03 23:23:22 INFO  log :28 - Ads was closed
+2020-11-03 23:23:22 INFO  log :30 - Deposit page is opened
+2020-11-03 23:23:23 INFO  log :32 - AccountNo is entered
+2020-11-03 23:23:23 INFO  log :34 - Amount is entered
+2020-11-03 23:23:23 INFO  log :36 - Description is added
+2020-11-03 23:23:23 INFO  log :38 - The submit is executed
+2020-11-03 23:23:27 INFO  log :44 - Test passed
+2020-11-03 23:24:07 INFO  log :64 - Page was opened
+2020-11-03 23:24:07 INFO  log :16 - Entered username
+2020-11-03 23:24:07 INFO  log :18 - Entered password
+2020-11-03 23:24:16 INFO  log :40 - Test passed
+2020-11-03 23:27:42 INFO  log :64 - Page was opened
+2020-11-03 23:27:43 INFO  log :16 - Entered username
+2020-11-03 23:27:43 INFO  log :18 - Entered password
+2020-11-03 23:27:51 INFO  log :40 - Test passed
+2020-11-03 23:27:59 INFO  log :64 - Page was opened
+2020-11-03 23:27:59 INFO  log :16 - Entered username
+2020-11-03 23:27:59 INFO  log :18 - Entered password
+2020-11-03 23:28:06 INFO  log :28 - Ads was closed
+2020-11-03 23:28:06 INFO  log :30 - Deposit page is opened
+2020-11-03 23:28:06 INFO  log :32 - AccountNo is entered
+2020-11-03 23:28:07 INFO  log :34 - Amount is entered
+2020-11-03 23:28:07 INFO  log :36 - Description is added
+2020-11-03 23:28:07 INFO  log :38 - The submit is executed
+2020-11-03 23:28:10 INFO  log :44 - Test passed
+2020-11-03 23:28:12 INFO  log :28 - Ads was closed
+2020-11-03 23:28:13 INFO  log :30 - Deposit page is opened
+2020-11-03 23:28:13 INFO  log :32 - AccountNo is entered
+2020-11-03 23:28:13 INFO  log :34 - Amount is entered
+2020-11-03 23:28:14 INFO  log :36 - Description is added
+2020-11-03 23:28:14 INFO  log :38 - The submit is executed
+2020-11-03 23:28:17 INFO  log :44 - Test passed
+2020-11-03 23:28:19 INFO  log :28 - Ads was closed
+2020-11-03 23:28:20 INFO  log :30 - Deposit page is opened
+2020-11-03 23:28:20 INFO  log :32 - AccountNo is entered
+2020-11-03 23:28:20 INFO  log :34 - Amount is entered
+2020-11-03 23:28:20 INFO  log :36 - Description is added
+2020-11-03 23:28:20 INFO  log :38 - The submit is executed
+2020-11-03 23:28:23 INFO  log :44 - Test passed
+2020-11-03 23:28:26 INFO  log :28 - Ads was closed
+2020-11-03 23:28:26 INFO  log :30 - Deposit page is opened
+2020-11-03 23:28:26 INFO  log :32 - AccountNo is entered
+2020-11-03 23:28:26 INFO  log :34 - Amount is entered
+2020-11-03 23:28:27 INFO  log :36 - Description is added
+2020-11-03 23:28:27 INFO  log :38 - The submit is executed
+2020-11-03 23:28:30 INFO  log :44 - Test passed
+2020-11-03 23:28:32 INFO  log :28 - Ads was closed
+2020-11-03 23:28:33 INFO  log :30 - Deposit page is opened
+2020-11-03 23:28:33 INFO  log :32 - AccountNo is entered
+2020-11-03 23:28:33 INFO  log :34 - Amount is entered
+2020-11-03 23:28:34 INFO  log :36 - Description is added
+2020-11-03 23:28:34 INFO  log :38 - The submit is executed
+2020-11-03 23:28:37 INFO  log :44 - Test passed
+2020-11-03 23:28:39 INFO  log :28 - Ads was closed
+2020-11-03 23:28:40 INFO  log :30 - Deposit page is opened
+2020-11-03 23:28:40 INFO  log :32 - AccountNo is entered
+2020-11-03 23:28:40 INFO  log :34 - Amount is entered
+2020-11-03 23:28:40 INFO  log :36 - Description is added
+2020-11-03 23:28:41 INFO  log :38 - The submit is executed
+2020-11-03 23:28:44 INFO  log :44 - Test passed
+2020-11-03 23:36:01 INFO  log :64 - Page was opened
+2020-11-03 23:36:01 INFO  log :16 - Entered username
+2020-11-03 23:36:01 INFO  log :18 - Entered password
+2020-11-03 23:36:10 INFO  log :40 - Test passed
+2020-11-03 23:36:18 INFO  log :64 - Page was opened
+2020-11-03 23:36:19 INFO  log :16 - Entered username
+2020-11-03 23:36:19 INFO  log :18 - Entered password
+2020-11-03 23:36:25 INFO  log :28 - Ads was closed
+2020-11-03 23:36:26 INFO  log :30 - Deposit page is opened
+2020-11-03 23:36:26 INFO  log :32 - AccountNo is entered
+2020-11-03 23:36:26 INFO  log :34 - Amount is entered
+2020-11-03 23:36:27 INFO  log :36 - Description is added
+2020-11-03 23:36:27 INFO  log :38 - The submit is executed
+2020-11-03 23:36:30 INFO  log :44 - Test passed
+2020-11-03 23:36:32 INFO  log :28 - Ads was closed
+2020-11-03 23:36:33 INFO  log :30 - Deposit page is opened
+2020-11-03 23:36:33 INFO  log :32 - AccountNo is entered
+2020-11-03 23:36:33 INFO  log :34 - Amount is entered
+2020-11-03 23:36:33 INFO  log :36 - Description is added
+2020-11-03 23:36:33 INFO  log :38 - The submit is executed
+2020-11-03 23:36:36 INFO  log :44 - Test passed
+2020-11-03 23:36:38 INFO  log :28 - Ads was closed
+2020-11-03 23:36:39 INFO  log :30 - Deposit page is opened
+2020-11-03 23:36:39 INFO  log :32 - AccountNo is entered
+2020-11-03 23:36:39 INFO  log :34 - Amount is entered
+2020-11-03 23:36:39 INFO  log :36 - Description is added
+2020-11-03 23:36:40 INFO  log :38 - The submit is executed
+2020-11-03 23:36:43 INFO  log :44 - Test passed
+2020-11-03 23:36:45 INFO  log :28 - Ads was closed
+2020-11-03 23:36:46 INFO  log :30 - Deposit page is opened
+2020-11-03 23:36:46 INFO  log :32 - AccountNo is entered
+2020-11-03 23:36:46 INFO  log :34 - Amount is entered
+2020-11-03 23:36:46 INFO  log :36 - Description is added
+2020-11-03 23:36:46 INFO  log :38 - The submit is executed
+2020-11-03 23:36:50 INFO  log :44 - Test passed
+2020-11-03 23:36:52 INFO  log :28 - Ads was closed
+2020-11-03 23:36:53 INFO  log :30 - Deposit page is opened
+2020-11-03 23:36:53 INFO  log :32 - AccountNo is entered
+2020-11-03 23:36:53 INFO  log :34 - Amount is entered
+2020-11-03 23:36:53 INFO  log :36 - Description is added
+2020-11-03 23:36:53 INFO  log :38 - The submit is executed
+2020-11-03 23:36:56 INFO  log :44 - Test passed
+2020-11-03 23:36:59 INFO  log :28 - Ads was closed
+2020-11-03 23:37:00 INFO  log :30 - Deposit page is opened
+2020-11-03 23:37:00 INFO  log :32 - AccountNo is entered
+2020-11-03 23:37:00 INFO  log :34 - Amount is entered
+2020-11-03 23:37:01 INFO  log :36 - Description is added
+2020-11-03 23:37:01 INFO  log :38 - The submit is executed
+2020-11-03 23:37:05 INFO  log :44 - Test passed
+2020-11-03 23:38:02 INFO  log :64 - Page was opened
+2020-11-03 23:38:03 INFO  log :16 - Entered username
+2020-11-03 23:38:03 INFO  log :18 - Entered password
+2020-11-03 23:38:12 INFO  log :40 - Test passed
+2020-11-03 23:38:20 INFO  log :64 - Page was opened
+2020-11-03 23:38:21 INFO  log :16 - Entered username
+2020-11-03 23:38:21 INFO  log :18 - Entered password
+2020-11-03 23:38:28 INFO  log :28 - Ads was closed
+2020-11-03 23:38:28 INFO  log :30 - Deposit page is opened
+2020-11-03 23:38:28 INFO  log :32 - AccountNo is entered
+2020-11-03 23:38:28 INFO  log :34 - Amount is entered
+2020-11-03 23:38:28 INFO  log :36 - Description is added
+2020-11-03 23:38:29 INFO  log :38 - The submit is executed
+2020-11-03 23:38:32 INFO  log :44 - Test passed
+2020-11-03 23:38:34 INFO  log :28 - Ads was closed
+2020-11-03 23:38:35 INFO  log :30 - Deposit page is opened
+2020-11-03 23:38:35 INFO  log :32 - AccountNo is entered
+2020-11-03 23:38:35 INFO  log :34 - Amount is entered
+2020-11-03 23:38:35 INFO  log :36 - Description is added
+2020-11-03 23:38:35 INFO  log :38 - The submit is executed
+2020-11-03 23:38:39 INFO  log :44 - Test passed
+2020-11-03 23:38:41 INFO  log :28 - Ads was closed
+2020-11-03 23:38:41 INFO  log :30 - Deposit page is opened
+2020-11-03 23:38:41 INFO  log :32 - AccountNo is entered
+2020-11-03 23:38:42 INFO  log :34 - Amount is entered
+2020-11-03 23:38:42 INFO  log :36 - Description is added
+2020-11-03 23:38:42 INFO  log :38 - The submit is executed
+2020-11-03 23:38:45 INFO  log :44 - Test passed
+2020-11-03 23:38:47 INFO  log :28 - Ads was closed
+2020-11-03 23:38:48 INFO  log :30 - Deposit page is opened
+2020-11-03 23:38:48 INFO  log :32 - AccountNo is entered
+2020-11-03 23:38:48 INFO  log :34 - Amount is entered
+2020-11-03 23:38:48 INFO  log :36 - Description is added
+2020-11-03 23:38:49 INFO  log :38 - The submit is executed
+2020-11-03 23:38:52 INFO  log :44 - Test passed
+2020-11-03 23:38:54 INFO  log :28 - Ads was closed
+2020-11-03 23:38:54 INFO  log :30 - Deposit page is opened
+2020-11-03 23:38:54 INFO  log :32 - AccountNo is entered
+2020-11-03 23:38:54 INFO  log :34 - Amount is entered
+2020-11-03 23:38:55 INFO  log :36 - Description is added
+2020-11-03 23:38:55 INFO  log :38 - The submit is executed
+2020-11-03 23:38:58 INFO  log :44 - Test passed
+2020-11-03 23:39:00 INFO  log :28 - Ads was closed
+2020-11-03 23:39:01 INFO  log :30 - Deposit page is opened
+2020-11-03 23:39:01 INFO  log :32 - AccountNo is entered
+2020-11-03 23:39:01 INFO  log :34 - Amount is entered
+2020-11-03 23:39:01 INFO  log :36 - Description is added
+2020-11-03 23:39:02 INFO  log :38 - The submit is executed
+2020-11-03 23:39:05 INFO  log :44 - Test passed

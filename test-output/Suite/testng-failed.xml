@@ -7,13 +7,13 @@
   <test thread-count="3" name="TestChrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_DeleteAccount_008">
+      <class name="com.inetBanking.testCases.TC_N_NewDeposit_010">
         <methods>
+          <include name="createNewDeposit_N" invocation-numbers="3"/>
           <include name="setup"/>
-          <include name="deleteAccount"/>
           <include name="quitBrowser"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_DeleteAccount_008 -->
+      </class> <!-- com.inetBanking.testCases.TC_N_NewDeposit_010 -->
     </classes>
   </test> <!-- TestChrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->
