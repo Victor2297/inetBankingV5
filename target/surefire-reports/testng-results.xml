@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-03T23:37:54 EET" name="Suite" finished-at="2020-11-03T23:39:06 EET" duration-ms="72383">
+  <suite started-at="2020-11-05T00:17:04 EET" name="Suite" finished-at="2020-11-05T00:18:05 EET" duration-ms="61091">
     <groups>
     </groups>
-    <test started-at="2020-11-03T23:37:54 EET" name="TestChrome" finished-at="2020-11-03T23:39:06 EET" duration-ms="72383">
-      <class name="com.inetBanking.testCases.TC_NewDeposit_009">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_NewDeposit_009@2a40cd94]" started-at="2020-11-03T23:37:54 EET" name="setup" finished-at="2020-11-03T23:38:02 EET" duration-ms="8469" status="PASS">
+    <test started-at="2020-11-05T00:17:04 EET" name="TestChrome" finished-at="2020-11-05T00:18:05 EET" duration-ms="61091">
+      <class name="com.inetBanking.testCases.TC_Withdrawal_011">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_Withdrawal_011@2a40cd94]" started-at="2020-11-05T00:17:04 EET" name="setup" finished-at="2020-11-05T00:17:12 EET" duration-ms="8182" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="createNewDeposit()[pri:0, instance:com.inetBanking.testCases.TC_NewDeposit_009@2a40cd94]" started-at="2020-11-03T23:38:02 EET" name="createNewDeposit" finished-at="2020-11-03T23:38:12 EET" duration-ms="9877" status="PASS">
+        <test-method signature="makeWithdrawal()[pri:0, instance:com.inetBanking.testCases.TC_Withdrawal_011@2a40cd94]" started-at="2020-11-05T00:17:12 EET" name="makeWithdrawal" finished-at="2020-11-05T00:17:22 EET" duration-ms="9880" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_NewDeposit_009@2a40cd94]" started-at="2020-11-03T23:38:12 EET" name="quitBrowser" finished-at="2020-11-03T23:38:13 EET" duration-ms="652" status="PASS">
+        </test-method> <!-- makeWithdrawal -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_Withdrawal_011@2a40cd94]" started-at="2020-11-05T00:17:22 EET" name="quitBrowser" finished-at="2020-11-05T00:17:23 EET" duration-ms="644" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-      </class> <!-- com.inetBanking.testCases.TC_NewDeposit_009 -->
-      <class name="com.inetBanking.testCases.TC_N_NewDeposit_010">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:13 EET" name="setup" finished-at="2020-11-03T23:38:20 EET" duration-ms="7396" status="PASS">
+      </class> <!-- com.inetBanking.testCases.TC_Withdrawal_011 -->
+      <class name="com.inetBanking.testCases.TC_N_Withdrawal_012">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:23 EET" name="setup" finished-at="2020-11-05T00:17:30 EET" duration-ms="7308" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,141 +39,141 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginOnPage()[pri:0, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:20 EET" name="loginOnPage" finished-at="2020-11-03T23:38:25 EET" duration-ms="4726" status="PASS">
+        <test-method signature="loginInApp()[pri:0, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:30 EET" name="loginInApp" finished-at="2020-11-05T00:17:35 EET" duration-ms="4595" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginOnPage -->
-        <test-method signature="createNewDeposit_N(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:25 EET" name="createNewDeposit_N" data-provider="Data" finished-at="2020-11-03T23:38:32 EET" duration-ms="6903" status="PASS">
+        </test-method> <!-- loginInApp -->
+        <test-method signature="nMakeWithdrawal(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:35 EET" name="nMakeWithdrawal" data-provider="Data" finished-at="2020-11-05T00:17:40 EET" duration-ms="4869" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[]]>
+                <![CDATA[ ]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[123]]>
+                <![CDATA[ ]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Test1]]>
+                <![CDATA[ ]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit_N -->
-        <test-method signature="createNewDeposit_N(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:32 EET" name="createNewDeposit_N" data-provider="Data" finished-at="2020-11-03T23:38:39 EET" duration-ms="6522" status="PASS">
+        </test-method> <!-- nMakeWithdrawal -->
+        <test-method signature="nMakeWithdrawal(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:40 EET" name="nMakeWithdrawal" data-provider="Data" finished-at="2020-11-05T00:17:44 EET" duration-ms="4591" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[45678]]>
+                <![CDATA[ ]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[]]>
+                <![CDATA[23]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Test1]]>
+                <![CDATA[Extragere de bani]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit_N -->
-        <test-method signature="createNewDeposit_N(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:39 EET" name="createNewDeposit_N" data-provider="Data" finished-at="2020-11-03T23:38:45 EET" duration-ms="6651" status="PASS">
+        </test-method> <!-- nMakeWithdrawal -->
+        <test-method signature="nMakeWithdrawal(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:44 EET" name="nMakeWithdrawal" data-provider="Data" finished-at="2020-11-05T00:17:49 EET" duration-ms="4518" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[]]>
+                <![CDATA[35796]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[]]>
+                <![CDATA[ ]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[]]>
+                <![CDATA[Extragere de bani]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit_N -->
-        <test-method signature="createNewDeposit_N(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:45 EET" name="createNewDeposit_N" data-provider="Data" finished-at="2020-11-03T23:38:52 EET" duration-ms="6551" status="PASS">
+        </test-method> <!-- nMakeWithdrawal -->
+        <test-method signature="nMakeWithdrawal(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:49 EET" name="nMakeWithdrawal" data-provider="Data" finished-at="2020-11-05T00:17:55 EET" duration-ms="6412" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[test]]>
+                <![CDATA[35758]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[123]]>
+                <![CDATA[23 ]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Test1]]>
+                <![CDATA[ ]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit_N -->
-        <test-method signature="createNewDeposit_N(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:52 EET" name="createNewDeposit_N" data-provider="Data" finished-at="2020-11-03T23:38:58 EET" duration-ms="6342" status="PASS">
+        </test-method> <!-- nMakeWithdrawal -->
+        <test-method signature="nMakeWithdrawal(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:17:55 EET" name="nMakeWithdrawal" data-provider="Data" finished-at="2020-11-05T00:18:00 EET" duration-ms="4377" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[45678]]>
+                <![CDATA[salut]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[123V]]>
+                <![CDATA[ ]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Test1]]>
+                <![CDATA[ ]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit_N -->
-        <test-method signature="createNewDeposit_N(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:38:58 EET" name="createNewDeposit_N" data-provider="Data" finished-at="2020-11-03T23:39:05 EET" duration-ms="7379" status="PASS">
+        </test-method> <!-- nMakeWithdrawal -->
+        <test-method signature="nMakeWithdrawal(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:18:00 EET" name="nMakeWithdrawal" data-provider="Data" finished-at="2020-11-05T00:18:04 EET" duration-ms="4749" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[45678]]>
+                <![CDATA[ ]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[123]]>
+                <![CDATA[salut]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[34567]]>
+                <![CDATA[ ]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createNewDeposit_N -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_N_NewDeposit_010@f4168b8]" started-at="2020-11-03T23:39:05 EET" name="quitBrowser" finished-at="2020-11-03T23:39:06 EET" duration-ms="625" status="PASS">
+        </test-method> <!-- nMakeWithdrawal -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_N_Withdrawal_012@f4168b8]" started-at="2020-11-05T00:18:04 EET" name="quitBrowser" finished-at="2020-11-05T00:18:05 EET" duration-ms="690" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-      </class> <!-- com.inetBanking.testCases.TC_N_NewDeposit_010 -->
+      </class> <!-- com.inetBanking.testCases.TC_N_Withdrawal_012 -->
     </test> <!-- TestChrome -->
   </suite> <!-- Suite -->
 </testng-results>

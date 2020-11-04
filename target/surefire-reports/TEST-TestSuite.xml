@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="21.512" tests="8" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="19.352" tests="8" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="JOB_NAME" value="inetBankingV5_maven_project1"/>
+    <property name="JOB_NAME" value="Test2inetBankingV5_Maven_project"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/2/display/redirect?page=tests"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/2/display/redirect?page=tests"/>
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="JENKINS_HOME" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins"/>
@@ -26,8 +26,8 @@
     <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
     <property name="ProgramFiles" value="C:\Program Files"/>
     <property name="user.language" value="en"/>
-    <property name="JOB_BASE_NAME" value="inetBankingV5_maven_project1"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/2/display/redirect?page=changes"/>
+    <property name="JOB_BASE_NAME" value="Test2inetBankingV5_Maven_project"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/2/display/redirect?page=changes"/>
     <property name="BUILD_DISPLAY_NAME" value="#2"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
@@ -38,7 +38,6 @@
     <property name="USERNAME" value="WINDOWS-H6EFL0Q$"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="NODE_NAME" value="master"/>
-    <property name="maven" value="C:\apache-maven-3.6.3\"/>
     <property name="BUILD_ID" value="2"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
@@ -52,15 +51,15 @@
     <property name="java.home" value="C:\Program Files\Java\jdk-12.0.2"/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="os.version" value="10.0"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/2/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/2/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="TMP" value="C:\WINDOWS\TEMP"/>
     <property name="path.separator" value=";"/>
-    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/2/display/redirect?page=artifacts"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/2/display/redirect?page=artifacts"/>
     <property name="java.vm.version" value="12.0.2+10"/>
     <property name="user.variant" value=""/>
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
-    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/display/redirect"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/display/redirect"/>
     <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-12.0.2"/>
@@ -73,7 +72,7 @@
     <property name="POM_GROUPID" value="inetBankingV5"/>
     <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-inetBankingV5_maven_project1-2"/>
+    <property name="BUILD_TAG" value="jenkins-Test2inetBankingV5_Maven_project-2"/>
     <property name="JENKINS_SERVER_COOKIE" value="3bc7e12476e502aa"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -81,15 +80,15 @@
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="USERPROFILE" value="C:\WINDOWS\system32\config\systemprofile"/>
     <property name="CLASSPATH" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.6.3\/bin;C:\Program Files\Java\jdk-12.0.2/bin;C:\Program Files\Java\jdk-12.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\apache-ant-1.10.7\bin;C:\Program Files\Java\jre1.8.0_261\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\android-sdk-26\platform-tools;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\Git\bin;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\;C:\apache-maven-3.6.3\\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.6.3\/bin;C:\Program Files\Java\jdk-12.0.2/bin;C:\Program Files\Java\jdk-12.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\apache-ant-1.10.7\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\Git\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\android-sdk-26\platform-tools;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\;C:\apache-maven-3.6.3\\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="APPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Roaming"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\apache-maven-3.6.3"/>
     <property name="java.class.path" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;C:\apache-maven-3.6.3/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.6.3\ C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\war\WEB-INF\lib\remoting-4.5.jar C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 59542"/>
-    <property name="Path" value="C:\Program Files\Java\jdk-12.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\apache-ant-1.10.7\bin;C:\Program Files\Java\jre1.8.0_261\bin;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\android-sdk-26\platform-tools;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\Git\bin;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\;C:\apache-maven-3.6.3\\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.6.3\ C:\Windows\System32\config\systemprofile\AppData\Local\Jenkins\war\WEB-INF\lib\remoting-4.5.jar C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 55195"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-12.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\apache-ant-1.10.7\bin;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files\Git\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\android-sdk-26\platform-tools;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\;C:\apache-maven-3.6.3\\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
     <property name="jdk.debug" value="release"/>
     <property name="DXSDK_DIR" value="C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -106,12 +105,12 @@
     <property name="PATH+MAVEN" value="C:\apache-maven-3.6.3\/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/2/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/2/"/>
     <property name="SystemRoot" value="C:\WINDOWS"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="user.dir" value="C:\Users\Victor\eclipse-workspace\inetBankingV5"/>
-    <property name="JOB_URL" value="http://localhost:8080/job/inetBankingV5_maven_project1/"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Test2inetBankingV5_Maven_project/"/>
     <property name="USERDOMAIN" value="WORKGROUP"/>
     <property name="MAVEN_HOME" value="C:\apache-maven-3.6.3\"/>
     <property name="line.separator" value="&#10;"/>
@@ -126,20 +125,20 @@
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
     <property name="maven3.interceptor" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
-    <property name="WORKSPACE_TMP" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\inetBankingV5_maven_project1@tmp"/>
-    <property name="WORKSPACE" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\inetBankingV5_maven_project1"/>
+    <property name="WORKSPACE_TMP" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\Test2inetBankingV5_Maven_project@tmp"/>
+    <property name="WORKSPACE" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\Test2inetBankingV5_Maven_project"/>
     <property name="maven3.interceptor.common" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
     <property name="WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe"/>
     <property name="PSModulePath" value="C:\Program Files (x86)\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
     <property name="java.specification.version" value="12"/>
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
   </properties>
-  <testcase name="createNewDeposit" classname="com.inetBanking.testCases.TC_NewDeposit_009" time="9.878"/>
-  <testcase name="loginOnPage" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="4.726"/>
-  <testcase name="createNewDeposit_N" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="6.908"/>
-  <testcase name="createNewDeposit_N" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="6.518"/>
-  <testcase name="createNewDeposit_N" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="6.65"/>
-  <testcase name="createNewDeposit_N" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="6.552"/>
-  <testcase name="createNewDeposit_N" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="6.341"/>
-  <testcase name="createNewDeposit_N" classname="com.inetBanking.testCases.TC_N_NewDeposit_010" time="7.38"/>
+  <testcase name="makeWithdrawal" classname="com.inetBanking.testCases.TC_Withdrawal_011" time="9.884"/>
+  <testcase name="loginInApp" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="4.596"/>
+  <testcase name="nMakeWithdrawal" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="4.872"/>
+  <testcase name="nMakeWithdrawal" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="4.588"/>
+  <testcase name="nMakeWithdrawal" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="4.517"/>
+  <testcase name="nMakeWithdrawal" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="6.412"/>
+  <testcase name="nMakeWithdrawal" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="4.377"/>
+  <testcase name="nMakeWithdrawal" classname="com.inetBanking.testCases.TC_N_Withdrawal_012" time="4.75"/>
 </testsuite>
