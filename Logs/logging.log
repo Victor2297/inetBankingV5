@@ -1718,3 +1718,151 @@
 2020-11-05 00:18:02 INFO  log :34 - Amount is entered
 2020-11-05 00:18:02 INFO  log :36 - Description is added
 2020-11-05 00:18:04 INFO  log :44 - Test passed
+2020-11-05 01:10:48 INFO  log :64 - Page was opened
+2020-11-05 01:10:48 INFO  log :16 - Entered username
+2020-11-05 01:10:50 INFO  log :18 - Entered password
+2020-11-05 01:10:57 INFO  log :27 - Withdrawal page is opened
+2020-11-05 01:10:57 INFO  log :29 - Account is entered
+2020-11-05 01:10:57 INFO  log :31 - Amount is entered
+2020-11-05 01:10:58 INFO  log :33 - Description is added
+2020-11-05 01:11:01 INFO  log :46 - Test passed
+2020-11-05 01:11:10 INFO  log :64 - Page was opened
+2020-11-05 01:11:10 INFO  log :16 - Entered username
+2020-11-05 01:11:10 INFO  log :18 - Entered password
+2020-11-05 01:11:18 INFO  log :30 - Withdrawal page is opened
+2020-11-05 01:11:18 INFO  log :32 - Account is entered
+2020-11-05 01:11:18 INFO  log :34 - Amount is entered
+2020-11-05 01:11:19 INFO  log :36 - Description is added
+2020-11-05 01:11:22 INFO  log :44 - Test passed
+2020-11-05 01:11:24 INFO  log :30 - Withdrawal page is opened
+2020-11-05 01:11:24 INFO  log :32 - Account is entered
+2020-11-05 01:11:25 INFO  log :34 - Amount is entered
+2020-11-05 01:11:25 INFO  log :36 - Description is added
+2020-11-05 01:11:27 INFO  log :44 - Test passed
+2020-11-05 01:11:29 INFO  log :30 - Withdrawal page is opened
+2020-11-05 01:11:30 INFO  log :32 - Account is entered
+2020-11-05 01:11:30 INFO  log :34 - Amount is entered
+2020-11-05 01:11:30 INFO  log :36 - Description is added
+2020-11-05 01:11:33 INFO  log :44 - Test passed
+2020-11-05 01:11:35 INFO  log :30 - Withdrawal page is opened
+2020-11-05 01:11:35 INFO  log :32 - Account is entered
+2020-11-05 01:11:35 INFO  log :34 - Amount is entered
+2020-11-05 01:11:36 INFO  log :36 - Description is added
+2020-11-05 01:11:38 INFO  log :44 - Test passed
+2020-11-05 01:11:40 INFO  log :30 - Withdrawal page is opened
+2020-11-05 01:11:41 INFO  log :32 - Account is entered
+2020-11-05 01:11:41 INFO  log :34 - Amount is entered
+2020-11-05 01:11:41 INFO  log :36 - Description is added
+2020-11-05 01:11:44 INFO  log :44 - Test passed
+2020-11-05 01:11:46 INFO  log :30 - Withdrawal page is opened
+2020-11-05 01:11:46 INFO  log :32 - Account is entered
+2020-11-05 01:11:46 INFO  log :34 - Amount is entered
+2020-11-05 01:11:47 INFO  log :36 - Description is added
+2020-11-05 01:11:49 INFO  log :44 - Test passed
+2020-11-09 23:07:48 INFO  log :64 - Page was opened
+2020-11-09 23:07:50 INFO  log :13 - Entered username
+2020-11-09 23:07:50 INFO  log :15 - Entered password
+2020-11-09 23:07:57 INFO  log :22 - Transfer page was opened
+2020-11-09 23:09:00 INFO  log :64 - Page was opened
+2020-11-09 23:09:01 INFO  log :13 - Entered username
+2020-11-09 23:09:01 INFO  log :15 - Entered password
+2020-11-09 23:10:24 INFO  log :64 - Page was opened
+2020-11-09 23:10:24 INFO  log :13 - Entered username
+2020-11-09 23:10:24 INFO  log :15 - Entered password
+2020-11-09 23:11:34 INFO  log :64 - Page was opened
+2020-11-09 23:11:34 INFO  log :13 - Entered username
+2020-11-09 23:11:35 INFO  log :15 - Entered password
+2020-11-09 23:12:16 INFO  log :64 - Page was opened
+2020-11-09 23:12:16 INFO  log :13 - Entered username
+2020-11-09 23:12:16 INFO  log :15 - Entered password
+2020-11-09 23:12:22 INFO  log :22 - Transfer page was opened
+2020-11-09 23:21:31 INFO  log :64 - Page was opened
+2020-11-09 23:21:31 INFO  log :16 - Entered username
+2020-11-09 23:21:32 INFO  log :18 - Entered password
+2020-11-09 23:21:38 INFO  log :25 - Transfer page was opened
+2020-11-09 23:21:38 INFO  log :27 - First account is added
+2020-11-09 23:21:38 INFO  log :29 - Second account is added
+2020-11-09 23:21:39 INFO  log :31 - Ammount wad added
+2020-11-09 23:21:39 INFO  log :33 - Descriptions was added
+2020-11-09 23:21:40 INFO  log :35 - Form was submited
+2020-11-09 23:21:42 INFO  log :42 - Test failed
+2020-11-09 23:23:24 INFO  log :64 - Page was opened
+2020-11-09 23:23:24 INFO  log :16 - Entered username
+2020-11-09 23:23:24 INFO  log :18 - Entered password
+2020-11-09 23:23:30 INFO  log :25 - Transfer page was opened
+2020-11-09 23:23:30 INFO  log :27 - First account is added
+2020-11-09 23:23:30 INFO  log :29 - Second account is added
+2020-11-09 23:23:31 INFO  log :31 - Ammount wad added
+2020-11-09 23:23:31 INFO  log :33 - Descriptions was added
+2020-11-09 23:23:32 INFO  log :35 - Form was submited
+2020-11-09 23:23:34 INFO  log :47 - Test passed
+2020-11-09 23:23:54 INFO  log :64 - Page was opened
+2020-11-09 23:23:54 INFO  log :16 - Entered username
+2020-11-09 23:23:55 INFO  log :18 - Entered password
+2020-11-09 23:24:00 INFO  log :25 - Transfer page was opened
+2020-11-09 23:24:00 INFO  log :27 - First account is added
+2020-11-09 23:24:01 INFO  log :29 - Second account is added
+2020-11-09 23:24:01 INFO  log :31 - Ammount wad added
+2020-11-09 23:24:01 INFO  log :33 - Descriptions was added
+2020-11-09 23:24:02 INFO  log :35 - Form was submited
+2020-11-09 23:24:04 INFO  log :47 - Test passed
+2020-11-09 23:24:45 INFO  log :64 - Page was opened
+2020-11-09 23:24:45 INFO  log :16 - Entered username
+2020-11-09 23:24:46 INFO  log :18 - Entered password
+2020-11-09 23:24:51 INFO  log :25 - Transfer page was opened
+2020-11-09 23:24:56 INFO  log :28 - First account is added
+2020-11-09 23:24:56 INFO  log :30 - Second account is added
+2020-11-09 23:24:56 INFO  log :32 - Ammount wad added
+2020-11-09 23:24:57 INFO  log :34 - Descriptions was added
+2020-11-09 23:24:58 INFO  log :36 - Form was submited
+2020-11-09 23:25:00 INFO  log :48 - Test passed
+2020-11-09 23:27:04 INFO  log :64 - Page was opened
+2020-11-09 23:27:04 INFO  log :16 - Entered username
+2020-11-09 23:27:04 INFO  log :18 - Entered password
+2020-11-09 23:27:09 INFO  log :25 - Transfer page was opened
+2020-11-09 23:27:09 INFO  log :27 - First account is added
+2020-11-09 23:27:09 INFO  log :29 - Second account is added
+2020-11-09 23:27:09 INFO  log :31 - Ammount wad added
+2020-11-09 23:27:10 INFO  log :33 - Descriptions was added
+2020-11-09 23:27:11 INFO  log :35 - Form was submited
+2020-11-09 23:27:13 INFO  log :47 - Test passed
+2020-11-09 23:30:57 INFO  log :64 - Page was opened
+2020-11-09 23:30:57 INFO  log :16 - Entered username
+2020-11-09 23:30:57 INFO  log :18 - Entered password
+2020-11-09 23:31:03 INFO  log :25 - Transfer page was opened
+2020-11-09 23:31:03 INFO  log :27 - First account is added
+2020-11-09 23:31:03 INFO  log :29 - Second account is added
+2020-11-09 23:31:03 INFO  log :31 - Ammount wad added
+2020-11-09 23:31:04 INFO  log :33 - Descriptions was added
+2020-11-09 23:31:04 INFO  log :35 - Form was submited
+2020-11-09 23:31:06 INFO  log :47 - Test passed
+2020-11-09 23:31:40 INFO  log :64 - Page was opened
+2020-11-09 23:31:41 INFO  log :16 - Entered username
+2020-11-09 23:31:41 INFO  log :18 - Entered password
+2020-11-09 23:31:46 INFO  log :25 - Transfer page was opened
+2020-11-09 23:31:47 INFO  log :27 - First account is added
+2020-11-09 23:31:47 INFO  log :29 - Second account is added
+2020-11-09 23:31:47 INFO  log :31 - Ammount wad added
+2020-11-09 23:31:47 INFO  log :33 - Descriptions was added
+2020-11-09 23:31:48 INFO  log :35 - Form was submited
+2020-11-09 23:31:50 INFO  log :47 - Test passed
+2020-11-09 23:32:18 INFO  log :64 - Page was opened
+2020-11-09 23:32:18 INFO  log :16 - Entered username
+2020-11-09 23:32:18 INFO  log :18 - Entered password
+2020-11-09 23:32:24 INFO  log :25 - Transfer page was opened
+2020-11-09 23:32:24 INFO  log :27 - First account is added
+2020-11-09 23:32:24 INFO  log :29 - Second account is added
+2020-11-09 23:32:25 INFO  log :31 - Ammount wad added
+2020-11-09 23:32:25 INFO  log :33 - Descriptions was added
+2020-11-09 23:32:26 INFO  log :35 - Form was submited
+2020-11-09 23:32:28 INFO  log :47 - Test passed
+2020-11-09 23:37:54 INFO  log :64 - Page was opened
+2020-11-09 23:37:54 INFO  log :16 - Entered username
+2020-11-09 23:37:54 INFO  log :18 - Entered password
+2020-11-09 23:38:00 INFO  log :25 - Transfer page was opened
+2020-11-09 23:38:00 INFO  log :27 - First account is added
+2020-11-09 23:38:00 INFO  log :29 - Second account is added
+2020-11-09 23:38:00 INFO  log :31 - Ammount wad added
+2020-11-09 23:38:00 INFO  log :33 - Descriptions was added
+2020-11-09 23:38:01 INFO  log :35 - Form was submited
+2020-11-09 23:38:03 INFO  log :47 - Test passed
