@@ -1,11 +1,14 @@
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\ClassDP.java
+C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\ChangePasswordPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\NewAccountPage.java
+C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_N_ChangePassword_015.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_N_NewDeposit_010.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\BaseClass.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_LoginDDT_002.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_AddNewCustomer_003.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_NewAccount_006.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\utilities\ReadConfig.java
+C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_ChangePassword_014.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_SearchCustomer.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_DeteleCustomer_005.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_Withdrawal_011.java
@@ -26,6 +29,7 @@ C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\te
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\LoginPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\DeleteCustomerPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\EditCustomerPage.java
+C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\ClassDP2.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_N_Withdrawal_012.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_DeleteAccount_008.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\DeleteAccountPage.java
