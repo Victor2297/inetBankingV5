@@ -7,13 +7,13 @@
   <test thread-count="3" name="TestChrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_N_ChangePassword_015">
+      <class name="com.inetBanking.testCases.TC_SeeBalanceEnquiry_016">
         <methods>
           <include name="setup"/>
+          <include name="seeBalanceEnquiry"/>
           <include name="quitBrowser"/>
-          <include name="n_ChangePassword" invocation-numbers="0 1 2 3 4 5"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_N_ChangePassword_015 -->
+      </class> <!-- com.inetBanking.testCases.TC_SeeBalanceEnquiry_016 -->
     </classes>
   </test> <!-- TestChrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->

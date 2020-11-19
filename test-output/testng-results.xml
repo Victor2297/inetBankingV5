@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-15T13:26:27 EET" name="Suite" finished-at="2020-11-15T13:26:52 EET" duration-ms="25278">
+  <suite started-at="2020-11-19T22:33:53 EET" name="Suite" finished-at="2020-11-19T22:34:13 EET" duration-ms="19125">
     <groups>
     </groups>
-    <test started-at="2020-11-15T13:26:27 EET" name="TestChrome" finished-at="2020-11-15T13:26:52 EET" duration-ms="25278">
-      <class name="com.inetBanking.testCases.TC_N_ChangePassword_015">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:27 EET" name="setup" finished-at="2020-11-15T13:26:36 EET" duration-ms="8985" status="PASS">
+    <test started-at="2020-11-19T22:33:53 EET" name="TestChrome" finished-at="2020-11-19T22:34:13 EET" duration-ms="19125">
+      <class name="com.inetBanking.testCases.TC_SeeBalanceEnquiry_016">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_SeeBalanceEnquiry_016@d4342c2]" started-at="2020-11-19T22:33:54 EET" name="setup" finished-at="2020-11-19T22:34:02 EET" duration-ms="8270" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,141 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="n_ChangePassword_login()[pri:0, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:36 EET" name="n_ChangePassword_login" finished-at="2020-11-15T13:26:42 EET" duration-ms="5694" status="PASS">
+        <test-method signature="seeBalanceEnquiry()[pri:0, instance:com.inetBanking.testCases.TC_SeeBalanceEnquiry_016@d4342c2]" started-at="2020-11-19T22:34:02 EET" name="seeBalanceEnquiry" finished-at="2020-11-19T22:34:12 EET" duration-ms="9770" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- n_ChangePassword_login -->
-        <test-method signature="n_ChangePassword(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:42 EET" name="n_ChangePassword" data-provider="Data" finished-at="2020-11-15T13:26:44 EET" duration-ms="2278" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- n_ChangePassword -->
-        <test-method signature="n_ChangePassword(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:44 EET" name="n_ChangePassword" data-provider="Data" finished-at="2020-11-15T13:26:46 EET" duration-ms="1409" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- n_ChangePassword -->
-        <test-method signature="n_ChangePassword(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:46 EET" name="n_ChangePassword" data-provider="Data" finished-at="2020-11-15T13:26:47 EET" duration-ms="1423" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- n_ChangePassword -->
-        <test-method signature="n_ChangePassword(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:47 EET" name="n_ChangePassword" data-provider="Data" finished-at="2020-11-15T13:26:49 EET" duration-ms="1509" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- n_ChangePassword -->
-        <test-method signature="n_ChangePassword(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:49 EET" name="n_ChangePassword" data-provider="Data" finished-at="2020-11-15T13:26:50 EET" duration-ms="1540" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[1234]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[1234]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- n_ChangePassword -->
-        <test-method signature="n_ChangePassword(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:50 EET" name="n_ChangePassword" data-provider="Data" finished-at="2020-11-15T13:26:52 EET" duration-ms="1410" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[123456@]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[12345]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- n_ChangePassword -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_N_ChangePassword_015@12b0404f]" started-at="2020-11-15T13:26:52 EET" name="quitBrowser" finished-at="2020-11-15T13:26:52 EET" duration-ms="749" status="PASS">
+        </test-method> <!-- seeBalanceEnquiry -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.inetBanking.testCases.TC_SeeBalanceEnquiry_016@d4342c2]" started-at="2020-11-19T22:34:12 EET" name="quitBrowser" finished-at="2020-11-19T22:34:13 EET" duration-ms="817" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-      </class> <!-- com.inetBanking.testCases.TC_N_ChangePassword_015 -->
+      </class> <!-- com.inetBanking.testCases.TC_SeeBalanceEnquiry_016 -->
     </test> <!-- TestChrome -->
   </suite> <!-- Suite -->
 </testng-results>

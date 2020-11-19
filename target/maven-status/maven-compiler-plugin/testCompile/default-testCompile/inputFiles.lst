@@ -1,3 +1,4 @@
+C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_SeeBalanceEnquiry_016.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\ClassDP.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\ChangePasswordPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\NewAccountPage.java
@@ -27,6 +28,7 @@ C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\te
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_LoginTest_001.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\TC_NewDeposit_009.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\LoginPage.java
+C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\BalanceEnquiryPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\DeleteCustomerPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\pageObjects\EditCustomerPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV5\src\test\java\com\inetBanking\testCases\ClassDP2.java
