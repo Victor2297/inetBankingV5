@@ -10,6 +10,7 @@ com\inetBanking\pageObjects\ChangePasswordPage.class
 com\inetBanking\testCases\TC_EditAccount_007.class
 com\inetBanking\testCases\TC_NewAccount_006.class
 com\inetBanking\pageObjects\BalanceEnquiryPage.class
+com\inetBanking\pageObjects\MiniStatementPage.class
 com\inetBanking\pageObjects\DeleteAccountPage.class
 com\inetBanking\testCases\TC_N_Withdrawal_012.class
 com\inetBanking\utilities\XLUtils.class
@@ -23,9 +24,11 @@ com\inetBanking\pageObjects\DepositPage.class
 com\inetBanking\testCases\TC_AddNewCustomer_003.class
 com\inetBanking\testCases\TC_N_ChangePassword_015.class
 com\inetBanking\pageObjects\EditCustomerPage.class
+com\inetBanking\testCases\TC_N_DisplayMiniStatement_018.class
 com\inetBanking\testCases\BaseClass.class
 com\inetBanking\testCases\ClassDP.class
 com\inetBanking\testCases\ClassDP1.class
+com\inetBanking\testCases\TC_DisplayMiniStatement_017.class
 com\inetBanking\pageObjects\DeleteCustomerPage.class
 com\inetBanking\utilities\ReadConfig.class
 com\inetBanking\pageObjects\FundTransferPage.class

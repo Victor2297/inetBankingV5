@@ -2020,3 +2020,312 @@
 2020-11-19 23:08:16 INFO  log :29 - Enetered account no
 2020-11-19 23:08:17 INFO  log :31 - The page was submitted
 2020-11-19 23:08:20 INFO  log :43 - Test passed
+2020-11-23 22:15:38 INFO  log :64 - Page was opened
+2020-11-23 22:15:42 INFO  log :16 - Entered username
+2020-11-23 22:15:43 INFO  log :18 - Entered password
+2020-11-23 22:15:49 INFO  log :27 - The ministatement page was opened
+2020-11-23 22:15:49 INFO  log :29 - Account was added
+2020-11-23 22:15:50 INFO  log :31 - The form was submitted
+2020-11-23 22:15:53 INFO  log :43 - Test passed
+2020-11-23 23:00:06 INFO  log :64 - Page was opened
+2020-11-23 23:00:06 INFO  log :16 - Entered username
+2020-11-23 23:00:07 INFO  log :18 - Entered password
+2020-11-23 23:00:12 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:00:12 INFO  log :29 - Account was added
+2020-11-23 23:00:13 INFO  log :31 - The form was submitted
+2020-11-23 23:00:16 INFO  log :43 - Test passed
+2020-11-23 23:00:25 INFO  log :64 - Page was opened
+2020-11-23 23:00:25 INFO  log :16 - Entered username
+2020-11-23 23:00:25 INFO  log :18 - Entered password
+2020-11-23 23:00:31 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:00:31 INFO  log :30 - Account was added
+2020-11-23 23:00:32 INFO  log :32 - The form was submitted
+2020-11-23 23:00:35 INFO  log :39 - Test passed
+2020-11-23 23:00:36 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:00:36 INFO  log :30 - Account was added
+2020-11-23 23:00:36 INFO  log :32 - The form was submitted
+2020-11-23 23:00:40 INFO  log :44 - Test failed
+2020-11-23 23:00:40 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:00:41 INFO  log :30 - Account was added
+2020-11-23 23:00:41 INFO  log :32 - The form was submitted
+2020-11-23 23:00:44 INFO  log :39 - Test passed
+2020-11-23 23:00:45 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:00:45 INFO  log :30 - Account was added
+2020-11-23 23:00:45 INFO  log :32 - The form was submitted
+2020-11-23 23:00:48 INFO  log :39 - Test passed
+2020-11-23 23:00:49 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:00:49 INFO  log :30 - Account was added
+2020-11-23 23:00:50 INFO  log :32 - The form was submitted
+2020-11-23 23:00:53 INFO  log :39 - Test passed
+2020-11-23 23:06:47 INFO  log :64 - Page was opened
+2020-11-23 23:06:47 INFO  log :16 - Entered username
+2020-11-23 23:06:48 INFO  log :18 - Entered password
+2020-11-23 23:06:52 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:06:52 INFO  log :29 - Account was added
+2020-11-23 23:06:53 INFO  log :31 - The form was submitted
+2020-11-23 23:06:56 INFO  log :43 - Test passed
+2020-11-23 23:07:05 INFO  log :64 - Page was opened
+2020-11-23 23:07:05 INFO  log :16 - Entered username
+2020-11-23 23:07:06 INFO  log :18 - Entered password
+2020-11-23 23:07:11 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:07:11 INFO  log :30 - Account was added
+2020-11-23 23:07:11 INFO  log :32 - The form was submitted
+2020-11-23 23:07:14 INFO  log :39 - Test passed
+2020-11-23 23:07:15 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:07:15 INFO  log :30 - Account was added
+2020-11-23 23:07:15 INFO  log :32 - The form was submitted
+2020-11-23 23:07:19 INFO  log :44 - Test failed
+2020-11-23 23:07:20 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:07:20 INFO  log :30 - Account was added
+2020-11-23 23:07:20 INFO  log :32 - The form was submitted
+2020-11-23 23:07:23 INFO  log :39 - Test passed
+2020-11-23 23:07:24 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:07:24 INFO  log :30 - Account was added
+2020-11-23 23:07:24 INFO  log :32 - The form was submitted
+2020-11-23 23:07:28 INFO  log :39 - Test passed
+2020-11-23 23:07:28 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:07:28 INFO  log :30 - Account was added
+2020-11-23 23:07:29 INFO  log :32 - The form was submitted
+2020-11-23 23:07:32 INFO  log :39 - Test passed
+2020-11-23 23:10:52 INFO  log :64 - Page was opened
+2020-11-23 23:10:52 INFO  log :16 - Entered username
+2020-11-23 23:10:53 INFO  log :18 - Entered password
+2020-11-23 23:10:58 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:10:58 INFO  log :29 - Account was added
+2020-11-23 23:11:00 INFO  log :31 - The form was submitted
+2020-11-23 23:11:03 INFO  log :43 - Test passed
+2020-11-23 23:11:11 INFO  log :64 - Page was opened
+2020-11-23 23:11:11 INFO  log :16 - Entered username
+2020-11-23 23:11:11 INFO  log :18 - Entered password
+2020-11-23 23:11:16 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:11:16 INFO  log :30 - Account was added
+2020-11-23 23:11:17 INFO  log :32 - The form was submitted
+2020-11-23 23:11:20 INFO  log :39 - Test passed
+2020-11-23 23:11:21 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:11:21 INFO  log :30 - Account was added
+2020-11-23 23:11:21 INFO  log :32 - The form was submitted
+2020-11-23 23:11:25 INFO  log :44 - Test failed
+2020-11-23 23:11:25 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:11:25 INFO  log :30 - Account was added
+2020-11-23 23:11:26 INFO  log :32 - The form was submitted
+2020-11-23 23:11:29 INFO  log :39 - Test passed
+2020-11-23 23:11:30 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:11:30 INFO  log :30 - Account was added
+2020-11-23 23:11:30 INFO  log :32 - The form was submitted
+2020-11-23 23:11:34 INFO  log :39 - Test passed
+2020-11-23 23:11:34 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:11:35 INFO  log :30 - Account was added
+2020-11-23 23:11:36 INFO  log :32 - The form was submitted
+2020-11-23 23:11:39 INFO  log :39 - Test passed
+2020-11-23 23:12:45 INFO  log :64 - Page was opened
+2020-11-23 23:12:45 INFO  log :16 - Entered username
+2020-11-23 23:12:46 INFO  log :18 - Entered password
+2020-11-23 23:12:51 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:12:51 INFO  log :29 - Account was added
+2020-11-23 23:12:52 INFO  log :31 - The form was submitted
+2020-11-23 23:12:55 INFO  log :43 - Test passed
+2020-11-23 23:13:03 INFO  log :64 - Page was opened
+2020-11-23 23:13:03 INFO  log :16 - Entered username
+2020-11-23 23:13:03 INFO  log :18 - Entered password
+2020-11-23 23:13:08 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:13:08 INFO  log :30 - Account was added
+2020-11-23 23:13:10 INFO  log :32 - The form was submitted
+2020-11-23 23:13:13 INFO  log :39 - Test passed
+2020-11-23 23:13:14 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:13:14 INFO  log :30 - Account was added
+2020-11-23 23:13:14 INFO  log :32 - The form was submitted
+2020-11-23 23:13:17 INFO  log :44 - Test failed
+2020-11-23 23:13:18 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:13:18 INFO  log :30 - Account was added
+2020-11-23 23:13:18 INFO  log :32 - The form was submitted
+2020-11-23 23:13:21 INFO  log :39 - Test passed
+2020-11-23 23:13:22 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:13:23 INFO  log :30 - Account was added
+2020-11-23 23:13:23 INFO  log :32 - The form was submitted
+2020-11-23 23:13:26 INFO  log :39 - Test passed
+2020-11-23 23:13:27 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:13:27 INFO  log :30 - Account was added
+2020-11-23 23:13:27 INFO  log :32 - The form was submitted
+2020-11-23 23:13:31 INFO  log :39 - Test passed
+2020-11-23 23:14:53 INFO  log :64 - Page was opened
+2020-11-23 23:14:53 INFO  log :16 - Entered username
+2020-11-23 23:14:54 INFO  log :18 - Entered password
+2020-11-23 23:14:59 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:14:59 INFO  log :29 - Account was added
+2020-11-23 23:15:00 INFO  log :31 - The form was submitted
+2020-11-23 23:15:03 INFO  log :43 - Test passed
+2020-11-23 23:15:11 INFO  log :64 - Page was opened
+2020-11-23 23:15:11 INFO  log :16 - Entered username
+2020-11-23 23:15:11 INFO  log :18 - Entered password
+2020-11-23 23:15:17 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:15:17 INFO  log :30 - Account was added
+2020-11-23 23:15:17 INFO  log :32 - The form was submitted
+2020-11-23 23:15:21 INFO  log :39 - Test passed
+2020-11-23 23:15:22 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:15:22 INFO  log :30 - Account was added
+2020-11-23 23:15:22 INFO  log :32 - The form was submitted
+2020-11-23 23:15:25 INFO  log :39 - Test passed
+2020-11-23 23:15:26 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:15:26 INFO  log :30 - Account was added
+2020-11-23 23:15:26 INFO  log :32 - The form was submitted
+2020-11-23 23:15:30 INFO  log :39 - Test passed
+2020-11-23 23:15:30 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:15:30 INFO  log :30 - Account was added
+2020-11-23 23:15:31 INFO  log :32 - The form was submitted
+2020-11-23 23:15:35 INFO  log :39 - Test passed
+2020-11-23 23:17:55 INFO  log :64 - Page was opened
+2020-11-23 23:17:55 INFO  log :16 - Entered username
+2020-11-23 23:17:55 INFO  log :18 - Entered password
+2020-11-23 23:18:01 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:18:01 INFO  log :29 - Account was added
+2020-11-23 23:18:02 INFO  log :31 - The form was submitted
+2020-11-23 23:18:05 INFO  log :43 - Test passed
+2020-11-23 23:18:14 INFO  log :64 - Page was opened
+2020-11-23 23:18:14 INFO  log :16 - Entered username
+2020-11-23 23:18:15 INFO  log :18 - Entered password
+2020-11-23 23:18:20 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:18:20 INFO  log :30 - Account was added
+2020-11-23 23:18:21 INFO  log :32 - The form was submitted
+2020-11-23 23:18:24 INFO  log :39 - Test passed
+2020-11-23 23:18:25 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:18:25 INFO  log :30 - Account was added
+2020-11-23 23:18:25 INFO  log :32 - The form was submitted
+2020-11-23 23:18:28 INFO  log :39 - Test passed
+2020-11-23 23:18:29 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:18:29 INFO  log :30 - Account was added
+2020-11-23 23:18:29 INFO  log :32 - The form was submitted
+2020-11-23 23:18:33 INFO  log :39 - Test passed
+2020-11-23 23:18:33 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:18:33 INFO  log :30 - Account was added
+2020-11-23 23:18:34 INFO  log :32 - The form was submitted
+2020-11-23 23:18:37 INFO  log :39 - Test passed
+2020-11-23 23:19:35 INFO  log :64 - Page was opened
+2020-11-23 23:19:35 INFO  log :16 - Entered username
+2020-11-23 23:19:36 INFO  log :18 - Entered password
+2020-11-23 23:19:41 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:19:41 INFO  log :29 - Account was added
+2020-11-23 23:19:42 INFO  log :31 - The form was submitted
+2020-11-23 23:19:45 INFO  log :43 - Test passed
+2020-11-23 23:19:53 INFO  log :64 - Page was opened
+2020-11-23 23:19:53 INFO  log :16 - Entered username
+2020-11-23 23:19:54 INFO  log :18 - Entered password
+2020-11-23 23:19:59 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:19:59 INFO  log :30 - Account was added
+2020-11-23 23:20:00 INFO  log :32 - The form was submitted
+2020-11-23 23:20:04 INFO  log :39 - Test passed
+2020-11-23 23:20:04 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:20:05 INFO  log :30 - Account was added
+2020-11-23 23:20:05 INFO  log :32 - The form was submitted
+2020-11-23 23:20:08 INFO  log :39 - Test passed
+2020-11-23 23:20:09 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:20:09 INFO  log :30 - Account was added
+2020-11-23 23:20:09 INFO  log :32 - The form was submitted
+2020-11-23 23:20:12 INFO  log :39 - Test passed
+2020-11-23 23:20:13 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:20:13 INFO  log :30 - Account was added
+2020-11-23 23:20:14 INFO  log :32 - The form was submitted
+2020-11-23 23:20:17 INFO  log :39 - Test passed
+2020-11-23 23:51:14 INFO  log :64 - Page was opened
+2020-11-23 23:51:14 INFO  log :16 - Entered username
+2020-11-23 23:51:14 INFO  log :18 - Entered password
+2020-11-23 23:51:19 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:51:19 INFO  log :29 - Account was added
+2020-11-23 23:51:20 INFO  log :31 - The form was submitted
+2020-11-23 23:51:23 INFO  log :43 - Test passed
+2020-11-23 23:51:31 INFO  log :64 - Page was opened
+2020-11-23 23:51:31 INFO  log :16 - Entered username
+2020-11-23 23:51:31 INFO  log :18 - Entered password
+2020-11-23 23:51:36 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:51:36 INFO  log :30 - Account was added
+2020-11-23 23:51:37 INFO  log :32 - The form was submitted
+2020-11-23 23:51:41 INFO  log :39 - Test passed
+2020-11-23 23:51:41 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:51:42 INFO  log :30 - Account was added
+2020-11-23 23:51:42 INFO  log :32 - The form was submitted
+2020-11-23 23:51:45 INFO  log :39 - Test passed
+2020-11-23 23:51:45 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:51:46 INFO  log :30 - Account was added
+2020-11-23 23:51:46 INFO  log :32 - The form was submitted
+2020-11-23 23:51:49 INFO  log :39 - Test passed
+2020-11-23 23:51:50 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:51:50 INFO  log :30 - Account was added
+2020-11-23 23:51:51 INFO  log :32 - The form was submitted
+2020-11-23 23:51:54 INFO  log :39 - Test passed
+2020-11-23 23:54:31 INFO  log :64 - Page was opened
+2020-11-23 23:54:31 INFO  log :16 - Entered username
+2020-11-23 23:54:31 INFO  log :18 - Entered password
+2020-11-23 23:54:35 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:54:35 INFO  log :29 - Account was added
+2020-11-23 23:54:36 INFO  log :31 - The form was submitted
+2020-11-23 23:54:39 INFO  log :43 - Test passed
+2020-11-23 23:54:47 INFO  log :64 - Page was opened
+2020-11-23 23:54:47 INFO  log :16 - Entered username
+2020-11-23 23:54:48 INFO  log :18 - Entered password
+2020-11-23 23:54:53 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:54:53 INFO  log :30 - Account was added
+2020-11-23 23:54:54 INFO  log :32 - The form was submitted
+2020-11-23 23:54:57 INFO  log :39 - Test passed
+2020-11-23 23:54:58 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:54:58 INFO  log :30 - Account was added
+2020-11-23 23:54:58 INFO  log :32 - The form was submitted
+2020-11-23 23:55:02 INFO  log :39 - Test passed
+2020-11-23 23:55:02 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:55:02 INFO  log :30 - Account was added
+2020-11-23 23:55:02 INFO  log :32 - The form was submitted
+2020-11-23 23:55:06 INFO  log :39 - Test passed
+2020-11-23 23:55:07 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:55:07 INFO  log :30 - Account was added
+2020-11-23 23:55:07 INFO  log :32 - The form was submitted
+2020-11-23 23:55:10 INFO  log :39 - Test passed
+2020-11-23 23:58:16 INFO  log :64 - Page was opened
+2020-11-23 23:58:16 INFO  log :16 - Entered username
+2020-11-23 23:58:16 INFO  log :18 - Entered password
+2020-11-23 23:58:21 INFO  log :27 - The ministatement page was opened
+2020-11-23 23:58:21 INFO  log :29 - Account was added
+2020-11-23 23:58:22 INFO  log :31 - The form was submitted
+2020-11-23 23:58:25 INFO  log :43 - Test passed
+2020-11-23 23:58:33 INFO  log :64 - Page was opened
+2020-11-23 23:58:33 INFO  log :16 - Entered username
+2020-11-23 23:58:33 INFO  log :18 - Entered password
+2020-11-23 23:58:39 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:58:39 INFO  log :30 - Account was added
+2020-11-23 23:58:39 INFO  log :32 - The form was submitted
+2020-11-23 23:58:43 INFO  log :39 - Test passed
+2020-11-23 23:58:44 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:58:44 INFO  log :30 - Account was added
+2020-11-23 23:58:44 INFO  log :32 - The form was submitted
+2020-11-23 23:58:47 INFO  log :39 - Test passed
+2020-11-23 23:58:48 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:58:48 INFO  log :30 - Account was added
+2020-11-23 23:58:48 INFO  log :32 - The form was submitted
+2020-11-23 23:58:51 INFO  log :39 - Test passed
+2020-11-23 23:58:52 INFO  log :28 - The ministatement page was opened
+2020-11-23 23:58:52 INFO  log :30 - Account was added
+2020-11-23 23:58:53 INFO  log :32 - The form was submitted
+2020-11-23 23:58:56 INFO  log :39 - Test passed
+2020-11-24 00:00:39 INFO  log :64 - Page was opened
+2020-11-24 00:00:39 INFO  log :16 - Entered username
+2020-11-24 00:00:39 INFO  log :18 - Entered password
+2020-11-24 00:00:45 INFO  log :27 - The ministatement page was opened
+2020-11-24 00:00:45 INFO  log :29 - Account was added
+2020-11-24 00:00:45 INFO  log :31 - The form was submitted
+2020-11-24 00:00:48 INFO  log :43 - Test passed
+2020-11-24 00:00:56 INFO  log :64 - Page was opened
+2020-11-24 00:00:57 INFO  log :16 - Entered username
+2020-11-24 00:00:57 INFO  log :18 - Entered password
+2020-11-24 00:01:02 INFO  log :28 - The ministatement page was opened
+2020-11-24 00:01:03 INFO  log :30 - Account was added
+2020-11-24 00:01:03 INFO  log :32 - The form was submitted
+2020-11-24 00:01:06 INFO  log :39 - Test passed
+2020-11-24 00:01:07 INFO  log :28 - The ministatement page was opened
+2020-11-24 00:01:07 INFO  log :30 - Account was added
+2020-11-24 00:01:07 INFO  log :32 - The form was submitted
+2020-11-24 00:01:11 INFO  log :39 - Test passed
+2020-11-24 00:01:11 INFO  log :28 - The ministatement page was opened
+2020-11-24 00:01:11 INFO  log :30 - Account was added
+2020-11-24 00:01:11 INFO  log :32 - The form was submitted
+2020-11-24 00:01:15 INFO  log :39 - Test passed
+2020-11-24 00:01:16 INFO  log :28 - The ministatement page was opened
+2020-11-24 00:01:16 INFO  log :30 - Account was added
+2020-11-24 00:01:16 INFO  log :32 - The form was submitted
+2020-11-24 00:01:19 INFO  log :39 - Test passed

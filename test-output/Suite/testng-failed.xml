@@ -7,13 +7,13 @@
   <test thread-count="3" name="TestChrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_SeeBalanceEnquiry_016">
+      <class name="com.inetBanking.testCases.TC_N_DisplayMiniStatement_018">
         <methods>
           <include name="setup"/>
-          <include name="seeBalanceEnquiry"/>
           <include name="quitBrowser"/>
+          <include name="n_displayMiniStatement" invocation-numbers="1"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_SeeBalanceEnquiry_016 -->
+      </class> <!-- com.inetBanking.testCases.TC_N_DisplayMiniStatement_018 -->
     </classes>
   </test> <!-- TestChrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->

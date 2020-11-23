@@ -24,7 +24,9 @@
   <!--<class name = "com.inetBanking.testCases.TC_FundTransfer_013"/>-->
   <!--<class name = "com.inetBanking.testCases.TC_ChangePassword_014"/>-->
   <!--<class name = "com.inetBanking.testCases.TC_N_ChangePassword_015"/>-->
-  <class name = "com.inetBanking.testCases.TC_SeeBalanceEnquiry_016"/>
+  <!--<class name = "com.inetBanking.testCases.TC_SeeBalanceEnquiry_016"/>-->
+  <class name = "com.inetBanking.testCases.TC_DisplayMiniStatement_017"/>
+  <class name = "com.inetBanking.testCases.TC_N_DisplayMiniStatement_018"/>
   </classes>
   </test>
 </suite>
